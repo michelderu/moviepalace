@@ -1,0 +1,142 @@
+{
+  "info" : {
+    "title" : "Customer",
+    "version" : "0.0.1",
+    "baseUri" : "http://example.org/",
+    "description" : "Unified insight in all customers"
+  },
+  "definitions" : {
+    "Rental" : {
+      "required" : [ ],
+      "pii" : [ ],
+      "elementRangeIndex" : [ "movie", "rating" ],
+      "rangeIndex" : [ ],
+      "wordLexicon" : [ ],
+      "properties" : {
+        "date" : {
+          "datatype" : "date",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "genre" : {
+          "datatype" : "array",
+          "description" : "Array of genres",
+          "items" : {
+            "datatype" : "string",
+            "collation" : "http://marklogic.com/collation/codepoint"
+          }
+        },
+        "id" : {
+          "datatype" : "string",
+          "description" : "Generated datahub ID",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "movie" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "price" : {
+          "datatype" : "float",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "rating" : {
+          "datatype" : "int",
+          "description" : "Stars given (1-5)",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "source_id" : {
+          "datatype" : "string",
+          "description" : "ID from source system",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "upstream_source" : {
+          "datatype" : "string",
+          "description" : "Source system",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        }
+      }
+    },
+    "Customer" : {
+      "required" : [ ],
+      "pii" : [ ],
+      "elementRangeIndex" : [ "account_mail", "first_name", "last_name", "marketing_mail", "zipcode" ],
+      "rangeIndex" : [ "gender" ],
+      "wordLexicon" : [ ],
+      "properties" : {
+        "account_mail" : {
+          "datatype" : "boolean",
+          "description" : "Wants account updates",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "email" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "first_name" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "full_name" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "gender" : {
+          "datatype" : "string",
+          "description" : "Male, Female, Undefined",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "id" : {
+          "datatype" : "string",
+          "description" : "Generated datahub ID",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "ip_address" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "last_name" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "marketing_mail" : {
+          "datatype" : "boolean",
+          "description" : "Wants marketing updates",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "number" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "source_id" : {
+          "datatype" : "array",
+          "description" : "ID's from source systems",
+          "items" : {
+            "datatype" : "string",
+            "collation" : "http://marklogic.com/collation/codepoint"
+          }
+        },
+        "street" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "upstream_source" : {
+          "datatype" : "array",
+          "description" : "Source system(s)",
+          "items" : {
+            "datatype" : "string",
+            "collation" : "http://marklogic.com/collation/codepoint"
+          }
+        },
+        "zipcode" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "rentals" : {
+          "datatype" : "array",
+          "items" : {
+            "$ref" : "#/definitions/Rental"
+          }
+        }
+      }
+    }
+  }
+}

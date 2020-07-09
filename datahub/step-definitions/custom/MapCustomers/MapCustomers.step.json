@@ -1,0 +1,28 @@
+{
+  "lang" : "zxx",
+  "name" : "MapCustomers",
+  "description" : "",
+  "type" : "CUSTOM",
+  "version" : 1,
+  "options" : {
+    "additionalCollections" : [ ],
+    "sourceQuery" : "cts.collectionQuery([\"customers\"])",
+    "targetEntity" : "Customer",
+    "collections" : [ "MapCustomers", "Customer" ],
+    "sourceDatabase" : "data-hub-STAGING",
+    "permissions" : "data-hub-operator,read,data-hub-operator,update",
+    "sourceCollection" : "customers",
+    "outputFormat" : "json",
+    "targetDatabase" : "data-hub-FINAL"
+  },
+  "customHook" : {
+    "module" : "",
+    "parameters" : { },
+    "user" : "",
+    "runBefore" : false
+  },
+  "modulePath" : "/custom-modules/custom/MapCustomers/main.sjs",
+  "retryLimit" : 0,
+  "batchSize" : 100,
+  "threadCount" : 4
+}

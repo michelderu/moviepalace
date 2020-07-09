@@ -1,0 +1,47 @@
+{
+  "name" : "Stream",
+  "description" : "",
+  "batchSize" : 100,
+  "threadCount" : 4,
+  "stopOnError" : false,
+  "options" : { },
+  "version" : 0,
+  "steps" : {
+    "1" : {
+      "name" : "rentals",
+      "description" : "",
+      "options" : {
+        "additionalCollections" : [ ],
+        "headers" : {
+          "sources" : [ {
+            "name" : "Stream"
+          } ],
+          "createdOn" : "currentDateTime",
+          "createdBy" : "currentUser"
+        },
+        "sourceQuery" : "cts.collectionQuery([])",
+        "collections" : [ "rentals" ],
+        "permissions" : "data-hub-operator,read,data-hub-operator,update",
+        "outputFormat" : "json",
+        "targetDatabase" : "data-hub-STAGING"
+      },
+      "customHook" : {
+        "module" : "",
+        "parameters" : { },
+        "user" : "",
+        "runBefore" : false
+      },
+      "retryLimit" : 0,
+      "batchSize" : 100,
+      "threadCount" : 4,
+      "stepDefinitionName" : "default-ingestion",
+      "stepDefinitionType" : "INGESTION",
+      "fileLocations" : {
+        "inputFilePath" : "/Users/mderu/projects/moviepalace/data/movies",
+        "inputFileType" : "csv",
+        "outputURIReplacement" : ".*/,'/data/'",
+        "separator" : ","
+      }
+    }
+  }
+}

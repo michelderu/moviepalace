@@ -1,0 +1,16 @@
+{
+  "Rental" : {
+    "x" : 1180,
+    "y" : 493,
+    "width" : 515,
+    "height" : 297,
+    "vertices" : { }
+  },
+  "Customer" : {
+    "x" : 510,
+    "y" : 141,
+    "width" : 520,
+    "height" : 467,
+    "vertices" : { }
+  }
+}

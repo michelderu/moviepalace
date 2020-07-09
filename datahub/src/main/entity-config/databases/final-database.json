@@ -1,0 +1,64 @@
+{
+  "lang" : "zxx",
+  "path-namespace" : [ {
+    "prefix" : "es",
+    "namespace-uri" : "http://marklogic.com/entity-services"
+  } ],
+  "range-path-index" : [ {
+    "invalid-values" : "reject",
+    "path-expression" : "//*:instance/Customer/gender",
+    "range-value-positions" : false,
+    "scalar-type" : "string",
+    "collation" : "http://marklogic.com/collation/codepoint"
+  } ],
+  "range-element-index" : [ {
+    "invalid-values" : "reject",
+    "localname" : "first_name",
+    "namespace-uri" : null,
+    "range-value-positions" : false,
+    "scalar-type" : "string",
+    "collation" : "http://marklogic.com/collation/codepoint"
+  }, {
+    "invalid-values" : "reject",
+    "localname" : "last_name",
+    "namespace-uri" : null,
+    "range-value-positions" : false,
+    "scalar-type" : "string",
+    "collation" : "http://marklogic.com/collation/codepoint"
+  }, {
+    "invalid-values" : "reject",
+    "localname" : "zipcode",
+    "namespace-uri" : null,
+    "range-value-positions" : false,
+    "scalar-type" : "string",
+    "collation" : "http://marklogic.com/collation/codepoint"
+  }, {
+    "invalid-values" : "reject",
+    "localname" : "marketing_mail",
+    "namespace-uri" : null,
+    "range-value-positions" : false,
+    "scalar-type" : "string",
+    "collation" : "http://marklogic.com/collation/codepoint"
+  }, {
+    "invalid-values" : "reject",
+    "localname" : "account_mail",
+    "namespace-uri" : null,
+    "range-value-positions" : false,
+    "scalar-type" : "string",
+    "collation" : "http://marklogic.com/collation/codepoint"
+  }, {
+    "invalid-values" : "reject",
+    "localname" : "rating",
+    "namespace-uri" : null,
+    "range-value-positions" : false,
+    "scalar-type" : "int"
+  }, {
+    "invalid-values" : "reject",
+    "localname" : "movie",
+    "namespace-uri" : null,
+    "range-value-positions" : false,
+    "scalar-type" : "string",
+    "collation" : "http://marklogic.com/collation/codepoint"
+  } ],
+  "database-name" : "%%mlFinalDbName%%"
+}

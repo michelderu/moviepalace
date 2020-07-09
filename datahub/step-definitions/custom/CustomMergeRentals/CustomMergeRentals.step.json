@@ -1,0 +1,28 @@
+{
+  "lang" : "zxx",
+  "name" : "CustomMergeRentals",
+  "description" : "",
+  "type" : "CUSTOM",
+  "version" : 6,
+  "options" : {
+    "additionalCollections" : [ ],
+    "sourceQuery" : "cts.andQuery([\n        cts.notQuery(cts.collectionQuery(\"CustomMergeRentals\")),\n        cts.collectionQuery(\"sm-Customer-merged\")]\n    )",
+    "targetEntity" : "Customer",
+    "collections" : [ "CustomMergeRentals", "sm-Customer-merged", "Customer" ],
+    "sourceDatabase" : "data-hub-FINAL",
+    "permissions" : "data-hub-operator,read,data-hub-operator,update",
+    "sourceCollection" : "",
+    "outputFormat" : "json",
+    "targetDatabase" : "data-hub-FINAL"
+  },
+  "customHook" : {
+    "module" : "",
+    "parameters" : { },
+    "user" : "",
+    "runBefore" : false
+  },
+  "modulePath" : "/custom-modules/custom/CustomMergeRentals/main.sjs",
+  "retryLimit" : 0,
+  "batchSize" : 100,
+  "threadCount" : 4
+}

@@ -1,0 +1,36 @@
+{
+  "lang" : "zxx",
+  "name" : "mastering-MapMarketing",
+  "description" : "",
+  "version" : 0,
+  "targetEntityType" : "http://example.org/Customer-0.0.1/Customer",
+  "sourceContext" : "/",
+  "sourceURI" : "/data/marketo/a20b2fd6-863b-40ae-af54-941c0732510b.json",
+  "properties" : {
+    "zipcode" : {
+      "sourcedFrom" : "postal"
+    },
+    "full_name" : {
+      "sourcedFrom" : "name"
+    },
+    "account_mail" : {
+      "sourcedFrom" : "account_updates"
+    },
+    "upstream_source" : {
+      "sourcedFrom" : "\"Marketo\""
+    },
+    "source_id" : {
+      "sourcedFrom" : "id"
+    },
+    "id" : {
+      "sourcedFrom" : "\"/marketing/\" || generate-id()"
+    },
+    "marketing_mail" : {
+      "sourcedFrom" : "marketing"
+    },
+    "email" : {
+      "sourcedFrom" : "email"
+    }
+  },
+  "namespaces" : { }
+}

@@ -1,0 +1,228 @@
+{
+  "name" : "mastering",
+  "description" : "null",
+  "batchSize" : 100,
+  "threadCount" : 4,
+  "stopOnError" : false,
+  "options" : { },
+  "version" : 0,
+  "steps" : {
+    "1" : {
+      "name" : "MapMarketing",
+      "description" : "",
+      "options" : {
+        "additionalCollections" : [ ],
+        "sourceQuery" : "cts.collectionQuery([\"marketing\"])",
+        "mapping" : {
+          "name" : "mastering-MapMarketing",
+          "version" : 0
+        },
+        "targetEntity" : "Customer",
+        "sourceDatabase" : "data-hub-STAGING",
+        "collections" : [ "MapMarketing", "Customer" ],
+        "permissions" : "data-hub-operator,read,data-hub-operator,update",
+        "validateEntity" : false,
+        "sourceCollection" : "marketing",
+        "outputFormat" : "json",
+        "targetDatabase" : "data-hub-FINAL"
+      },
+      "customHook" : {
+        "module" : "",
+        "parameters" : { },
+        "user" : "",
+        "runBefore" : false
+      },
+      "retryLimit" : null,
+      "batchSize" : 100,
+      "threadCount" : 4,
+      "stepDefinitionName" : "entity-services-mapping",
+      "stepDefinitionType" : "MAPPING"
+    },
+    "2" : {
+      "name" : "MasterMarketing",
+      "description" : "",
+      "options" : {
+        "stepUpdate" : true,
+        "additionalCollections" : [ ],
+        "sourceQuery" : "cts.collectionQuery([\"Customer\"])",
+        "acceptsBatch" : true,
+        "targetEntity" : "Customer",
+        "sourceCollection" : "Customer",
+        "targetDatabase" : "data-hub-FINAL",
+        "sourceDatabase" : "data-hub-FINAL",
+        "collections" : [ "MasterMarketing", "Customer" ],
+        "mergeOptions" : {
+          "matchOptions" : "",
+          "propertyDefs" : {
+            "properties" : [ {
+              "localname" : "email",
+              "name" : "email"
+            }, {
+              "localname" : "source_id",
+              "name" : "source_id"
+            }, {
+              "localname" : "id",
+              "name" : "id"
+            } ],
+            "namespaces" : { }
+          },
+          "algorithms" : {
+            "stdAlgorithm" : {
+              "timestamp" : { }
+            },
+            "custom" : [ ],
+            "collections" : { }
+          },
+          "mergeStrategies" : [ ],
+          "merging" : [ {
+            "propertyName" : "email",
+            "maxValues" : "1",
+            "sourceWeights" : [ {
+              "source" : {
+                "name" : "CRM",
+                "weight" : "5"
+              }
+            }, {
+              "source" : {
+                "name" : "Marketo",
+                "weight" : "10"
+              }
+            } ]
+          }, {
+            "propertyName" : "source_id",
+            "maxValues" : "1",
+            "sourceWeights" : [ {
+              "source" : {
+                "name" : "CRM",
+                "weight" : "10"
+              }
+            }, {
+              "source" : {
+                "name" : "Marketo",
+                "weight" : "5"
+              }
+            } ]
+          }, {
+            "propertyName" : "id",
+            "maxValues" : "1",
+            "sourceWeights" : [ {
+              "source" : {
+                "name" : "CRM",
+                "weight" : "10"
+              }
+            }, {
+              "source" : {
+                "name" : "Marketo",
+                "weight" : "5"
+              }
+            } ]
+          } ]
+        },
+        "permissions" : "data-hub-operator,read,data-hub-operator,update",
+        "matchOptions" : {
+          "propertyDefs" : {
+            "property" : [ {
+              "localname" : "email",
+              "name" : "email"
+            }, {
+              "localname" : "zipcode",
+              "name" : "zipcode"
+            }, {
+              "localname" : "full_name",
+              "name" : "full_name"
+            } ]
+          },
+          "algorithms" : {
+            "algorithm" : [ {
+              "name" : "double-metaphone",
+              "function" : "double-metaphone",
+              "namespace" : "http://marklogic.com/smart-mastering/algorithms",
+              "at" : "/com.marklogic.smart-mastering/algorithms/double-metaphone.xqy"
+            }, {
+              "name" : "thesaurus",
+              "function" : "thesaurus",
+              "namespace" : "http://marklogic.com/smart-mastering/algorithms",
+              "at" : "/com.marklogic.smart-mastering/algorithms/thesaurus.xqy"
+            }, {
+              "name" : "zip-match",
+              "function" : "zip-match",
+              "namespace" : "http://marklogic.com/smart-mastering/algorithms",
+              "at" : "/com.marklogic.smart-mastering/algorithms/zip.xqy"
+            }, {
+              "name" : "standard-reduction",
+              "function" : "standard-reduction"
+            } ]
+          },
+          "collections" : {
+            "content" : [ ]
+          },
+          "scoring" : {
+            "add" : [ {
+              "propertyName" : "email",
+              "weight" : "100"
+            }, {
+              "propertyName" : "zipcode",
+              "weight" : "50"
+            }, {
+              "propertyName" : "full_name",
+              "weight" : "50"
+            } ],
+            "expand" : [ ],
+            "reduce" : [ ]
+          },
+          "actions" : {
+            "action" : [ ]
+          },
+          "thresholds" : {
+            "threshold" : [ {
+              "above" : "100",
+              "label" : "DefinitiveMatch",
+              "action" : "merge"
+            } ]
+          },
+          "tuning" : {
+            "maxScan" : 200
+          }
+        },
+        "outputFormat" : "json"
+      },
+      "customHook" : {
+        "module" : "",
+        "parameters" : { },
+        "user" : "",
+        "runBefore" : false
+      },
+      "retryLimit" : 0,
+      "batchSize" : 100,
+      "threadCount" : 1,
+      "stepDefinitionName" : "default-mastering",
+      "stepDefinitionType" : "MASTERING"
+    },
+    "3" : {
+      "name" : "CustomMergeRentals",
+      "description" : "",
+      "options" : {
+        "additionalCollections" : [ ],
+        "sourceQuery" : "cts.andQuery([\n        cts.notQuery(cts.collectionQuery(\"CustomMergeRentals\")),\n        cts.collectionQuery(\"sm-Customer-merged\")]\n    )",
+        "targetEntity" : "Customer",
+        "collections" : [ "CustomMergeRentals", "sm-Customer-merged", "Customer" ],
+        "sourceDatabase" : "data-hub-FINAL",
+        "permissions" : "data-hub-operator,read,data-hub-operator,update",
+        "sourceCollection" : "",
+        "outputFormat" : "json",
+        "targetDatabase" : "data-hub-FINAL"
+      },
+      "customHook" : {
+        "module" : "",
+        "parameters" : { },
+        "user" : "",
+        "runBefore" : false
+      },
+      "retryLimit" : 0,
+      "batchSize" : 100,
+      "threadCount" : 4,
+      "stepDefinitionName" : "CustomMergeRentals",
+      "stepDefinitionType" : "CUSTOM"
+    }
+  }
+}

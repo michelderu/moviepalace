@@ -1,0 +1,131 @@
+buildscript {
+  repositories {
+    maven {url 'http://developer.marklogic.com/maven2/'}
+  }
+}
+
+plugins {
+    id 'java'
+    id 'eclipse'
+    id 'idea'
+
+    // This plugin allows you to create different environments
+    // for your gradle deploy. Each environment is represented
+    // by a gradle-${env}.properties file
+    // See https://github.com/stevesaliman/gradle-properties-plugin
+    // specify the env on the command line with:
+    // gradle -PenvironmentName=x ...
+    id 'net.saliman.properties' version '1.4.6'
+
+    // This gradle plugin extends the ml-gradle plugin with
+    // commands that make Data Hub do its magic
+    id 'com.marklogic.ml-data-hub' version '5.2.1'
+}
+
+repositories {
+    jcenter()
+    maven {url 'http://developer.marklogic.com/maven2/'}
+    maven {url 'https://dl.bintray.com/marklogic-community/Maven/'}
+}
+
+configurations {
+    mlcp {
+        // stop Gradle from complaining about "SLF4J: Class path contains multiple SLF4J bindings."
+        exclude group: 'ch.qos.logback', module: 'logback-classic'
+        exclude group: 'org.apache.avro', module: 'avro-tools'
+    }
+}
+
+dependencies {
+    // this allows you to write custom java code that depends
+    // on the Data Hub library
+    compile 'com.marklogic:marklogic-data-hub:5.2.1'
+    compile 'com.marklogic:marklogic-xcc:9.0.7'
+
+    mlcp "com.marklogic:mlcp:10.0.4"
+    /**
+     * mlcp uses Log4j for logging, and if Log4j can't find a configuration file, it will complain and you'll
+     * get none of mlcp's usually-useful logging. It is recommended then that your Gradle configuration for
+     * mlcp include a directory or some other resource that provides a log4j.properties file.
+     */
+    mlcp files("mlcp/conf")
+    mlcp files("mlcp/lib")
+}
+
+task ingestCustomers(type: com.marklogic.gradle.task.MlcpTask, group: project.name) {
+    classpath = configurations.mlcp
+    command = "import"
+    host = project.property("mlHost")
+    port = Integer.parseInt(project.property("mlStagingPort"))
+    ssl = project.property("mlStagingSimpleSsl")
+    restrict_hosts = "true"
+    username = project.property("mlUsername")
+    password = project.property("mlPassword")
+    input_file_path = "../data/customers"
+    input_file_type = "delimited_text"
+    uri_id = "id"
+    output_collections =  "customers"
+    output_permissions = "data-hub-operator,read,data-hub-operator,update"
+    output_uri_replace = ".*/,''"
+    output_uri_prefix = "/data/customers/"
+    output_uri_suffix = ".json"
+    document_type = "json"
+    transform_module = "/data-hub/5/transforms/mlcp-flow-transform.sjs"
+    transform_namespace = "http://marklogic.com/data-hub/mlcp-flow-transform"
+    transform_param = "flow-name=CRM, step=1"
+    thread_count=8
+    batch_size=200
+}
+
+task ingestRentals(type: com.marklogic.gradle.task.MlcpTask, group: project.name) {
+    classpath = configurations.mlcp
+    command = "import"
+    host = project.property("mlHost")
+    port = Integer.parseInt(project.property("mlStagingPort"))
+    ssl = project.property("mlStagingSimpleSsl")
+    restrict_hosts = "true"
+    username = project.property("mlUsername")
+    password = project.property("mlPassword")
+    input_file_path = "../data/movies"
+    input_file_type = "delimited_text"
+    uri_id = "id"
+    output_collections =  "rentals"
+    output_permissions = "data-hub-operator,read,data-hub-operator,update"
+    output_uri_replace = ".*/,''"
+    output_uri_prefix = "/data/rentals/"
+    output_uri_suffix = ".json"
+    document_type = "json"
+    transform_module = "/data-hub/5/transforms/mlcp-flow-transform.sjs"
+    transform_namespace = "http://marklogic.com/data-hub/mlcp-flow-transform"
+    transform_param = "flow-name=Stream, step=1"
+    thread_count=8
+    batch_size=200
+}
+
+task ingestMarketing(type: com.marklogic.gradle.task.MlcpTask, group: project.name) {
+    classpath = configurations.mlcp
+    command = "import"
+    host = project.property("mlHost")
+    port = Integer.parseInt(project.property("mlStagingPort"))
+    ssl = project.property("mlStagingSimpleSsl")
+    restrict_hosts = "true"
+    username = project.property("mlUsername")
+    password = project.property("mlPassword")
+    input_file_path = "../data/marketo"
+    input_file_type = "delimited_text"
+    uri_id = "id"
+    output_collections =  "marketing"
+    output_permissions = "data-hub-operator,read,data-hub-operator,update"
+    output_uri_replace = ".*/,''"
+    output_uri_prefix = "/data/marketing/"
+    output_uri_suffix = ".json"
+    document_type = "json"
+    transform_module = "/data-hub/5/transforms/mlcp-flow-transform.sjs"
+    transform_namespace = "http://marklogic.com/data-hub/mlcp-flow-transform"
+    transform_param = "flow-name=Marketo, step=1"
+    thread_count=8
+    batch_size=200
+}
+
+task ingestAll(dependsOn: ['ingestCustomers', 'ingestRentals', 'ingestMarketing'])
+

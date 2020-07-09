@@ -1,0 +1,1001 @@
+id,customer_id,date,movie,genre,price,stars
+18238,1014,23/12/2019,Practical Magic,Drama|Fantasy|Mystery|Romance,9.70,3
+18239,1054,11/03/2020,My Friend Henry (Ystäväni Henry),Children|Drama,5.90,0
+18240,1135,27/04/2020,Beau Brummell: This Charming Man,Drama,6.90,1
+18241,1027,05/08/2019,"Bothersome Man, The (Brysomme mannen, Den)",Comedy|Drama|Fantasy|Mystery,8.80,3
+18242,1020,20/11/2019,Under the Lighthouse Dancing,Drama,7.20,1
+18243,1085,02/02/2020,Les Feux Arctiques (Arktiset tulet),Documentary|Drama,7.60,3
+18244,1196,13/01/2020,Ganes,Drama|Musical,9.20,4
+18245,1086,29/12/2019,"Harvest/La Cosecha, The",Documentary,7.00,0
+18246,1005,21/07/2019,Mutant Action (Acción Mutante),Action|Comedy|Sci-Fi,5.30,5
+18247,1180,18/12/2019,Chaos (Kaosu),Crime|Mystery|Thriller,7.60,2
+18248,1091,07/09/2019,Harry Potter and the Deathly Hallows: Part 1,Action|Adventure|Fantasy|IMAX,5.40,5
+18249,1198,31/08/2019,Vivre sa vie: Film en douze tableaux (My Life to Live),Drama,7.10,3
+18250,1121,04/11/2019,Great Balls of Fire!,Drama,6.70,5
+18251,1049,16/04/2020,"Prisoner of Zenda, The",Adventure,7.50,3
+18252,1180,18/06/2019,"Monkey in Winter, A (Un singe en hiver)",Comedy|Drama,5.20,5
+18253,1061,05/09/2019,"Chinoise, La",Comedy|Drama,6.60,1
+18254,1048,15/03/2020,"Sea of Grass, The",Drama|Western,9.40,2
+18255,1095,21/04/2020,Requiem for a Vampire (Vierges et vampires),Horror,5.30,0
+18256,1094,27/10/2019,Inside Man,Crime|Drama|Thriller,6.30,4
+18257,1178,09/11/2019,Love Loves Coincidences,Drama|Romance,6.70,1
+18258,1179,28/05/2019,Fallen Angel,Crime|Film-Noir|Mystery|Romance,9.60,3
+18259,1170,06/12/2019,Bananas!*,Crime|Documentary|Drama,5.80,3
+18260,1150,10/03/2020,Looking Forward,Drama,8.30,5
+18261,1094,08/06/2019,Wild Beasts (Wild beasts - Belve feroci),Horror,9.30,2
+18262,1122,16/07/2019,I Think I Love My Wife,Comedy|Drama|Romance,9.20,3
+18263,1088,16/05/2020,Graveyard Shift (Stephen King's Graveyard Shift),Horror|Thriller,5.30,5
+18264,1123,26/05/2019,Striking Range,Action|Thriller,6.50,4
+18265,1051,09/01/2020,Shoot-Out at Medicine Bend,Western,5.90,4
+18266,1122,01/07/2019,"Amanece, que no es poco",Comedy,8.60,5
+18267,1017,25/10/2019,Chasing Liberty,Comedy|Romance,7.00,2
+18268,1043,22/06/2019,Buried,Mystery|Thriller,6.70,5
+18269,1100,18/07/2019,"Souler Opposite, The",Comedy|Romance,6.40,2
+18270,1125,14/01/2020,Bernie,Comedy|Crime|Drama,6.70,4
+18271,1069,02/12/2019,Madigan,Crime|Drama,5.50,2
+18272,1105,20/12/2019,Shag,Comedy|Drama,7.30,2
+18273,1086,07/11/2019,Patriot Games,Action|Thriller,5.00,0
+18274,1163,06/03/2020,"Fast & Furious (Fast and the Furious 4, The)",Action|Crime|Drama|Thriller,9.90,1
+18275,1122,07/11/2019,Urban Menace,Action|Horror,8.00,5
+18276,1153,06/10/2019,"T,O,U,C,H,I,N,G",(no genres listed),7.10,2
+18277,1011,28/12/2019,Kidulthood,Drama,5.80,0
+18278,1054,22/06/2019,"MatchMaker, The",Comedy|Romance,7.80,2
+18279,1008,12/06/2019,"Friend Is a Treasure, A (Chi Trova Un Amico, Trova un Tesoro) (Who Finds a Friend Finds a Treasure)",Action|Adventure|Comedy,9.70,0
+18280,1014,24/10/2019,Salesman,Documentary,8.90,0
+18281,1073,08/11/2019,The New Girlfriend,Drama,9.20,5
+18282,1195,28/12/2019,"Great Muppet Caper, The",Children|Comedy,7.90,2
+18283,1041,04/05/2020,Red White & Blue,Drama|Mystery|Romance,6.30,5
+18284,1197,06/07/2019,How to Get Ahead in Advertising,Comedy|Fantasy,6.90,3
+18285,1151,18/04/2020,Fail Safe,Drama|Thriller,7.90,2
+18286,1192,23/04/2020,Never Again,Comedy|Romance,6.10,0
+18287,1145,23/06/2019,"Hawaiians, The",Drama,5.10,5
+18288,1002,30/11/2019,Happy Tears,Comedy|Drama,6.10,0
+18289,1161,06/08/2019,Death of a Cyclist (Muerte de un ciclista),Drama,7.80,2
+18290,1039,08/06/2019,Effi Briest (Fontane - Effi Briest),Drama,6.50,3
+18291,1014,20/06/2019,Hack!,Comedy|Horror,8.50,5
+18292,1147,13/10/2019,"Taxing Woman, A (Marusa no onna)",Comedy,7.00,2
+18293,1029,14/03/2020,Amityville 1992: It's About Time,Horror,7.20,5
+18294,1191,06/02/2020,Dragon Ball Z: Bojack Unbound (Doragon bôru Z 9: Ginga girigiri!! Butchigiri no sugoi yatsu),Action|Adventure|Animation|Fantasy,8.30,2
+18295,1095,28/08/2019,Resistance,Drama|Romance|War,6.40,1
+18296,1017,24/05/2020,Winter of Discontent,Drama,6.30,4
+18297,1110,26/05/2019,Where the Red Fern Grows,Children|Drama,5.70,4
+18298,1117,01/10/2019,Coney Island,Comedy,9.30,3
+18299,1193,30/12/2019,In the Basement,Documentary,6.10,5
+18300,1023,29/08/2019,Kagemusha,Drama|War,5.20,3
+18301,1165,03/03/2020,Medicine for Melancholy,Drama|Romance,5.60,0
+18302,1189,17/07/2019,Riding in Cars with Boys,Comedy|Drama,9.80,5
+18303,1080,20/08/2019,Ratcatcher,Drama,9.30,5
+18304,1131,12/08/2019,Berlin Calling,Comedy|Drama,8.30,0
+18305,1169,02/02/2020,Outside the Law (Hors-la-loi),Crime|Drama|War,8.90,4
+18306,1051,21/10/2019,Pumpkinhead II: Blood Wings,Horror|Thriller,8.60,0
+18307,1096,04/03/2020,Cactus Flower,Comedy,9.10,2
+18308,1144,09/06/2019,City Lights,Comedy|Drama|Romance,9.20,5
+18309,1042,22/06/2019,Supermensch: The Legend of Shep Gordon,Documentary,9.70,3
+18310,1117,14/08/2019,Femme Fatale,Crime|Thriller,8.90,3
+18311,1198,22/02/2020,Mean Creek,Drama|Thriller,9.70,2
+18312,1081,06/09/2019,Taxi Hunter (Di shi pan guan),Action,5.80,5
+18313,1158,22/03/2020,"Goodbye Girl, The",Comedy|Romance,9.40,1
+18314,1161,04/12/2019,Odgrobadogroba,Comedy|Drama,6.70,4
+18315,1139,30/11/2019,Diabolique,Drama|Thriller,7.50,4
+18316,1060,12/01/2020,Russian Dolls (Les poupées russes),Comedy|Romance,6.10,0
+18317,1180,12/05/2020,Brubaker,Crime|Drama,6.90,5
+18318,1129,07/04/2020,Waiting for Forever,Drama|Romance,9.80,2
+18319,1088,31/10/2019,Dream Machine,Action|Comedy|Crime,6.00,1
+18320,1150,22/01/2020,The White Sister,Drama|Romance,5.40,1
+18321,1095,16/05/2020,Kill for Me,Drama|Thriller,5.20,1
+18322,1045,06/09/2019,Nothing Personal,Drama,8.00,0
+18323,1033,17/05/2020,Green Dragon,Drama,8.50,4
+18324,1191,04/03/2020,Days of Thunder,Action|Drama|Romance,8.50,4
+18325,1115,30/09/2019,Down to You,Comedy|Romance,8.50,3
+18326,1041,27/02/2020,"Dead Hate the Living!, The",Comedy|Horror,9.00,2
+18327,1144,14/12/2019,Jackass: The Movie,Action|Comedy|Documentary,7.50,5
+18328,1053,19/06/2019,"Boys from Fengkuei, The (Feng gui lai de ren)",Drama,6.20,3
+18329,1189,21/01/2020,Love Happy,Comedy,8.80,5
+18330,1027,08/01/2020,Bowfinger,Comedy,9.90,2
+18331,1182,29/06/2019,"2013 Rock and Roll Hall of Fame Induction Ceremony, The",Documentary|Musical,5.60,2
+18332,1121,18/04/2020,Scarecrow,Drama,7.20,5
+18333,1101,24/11/2019,"Average Little Man, An (Un borghese piccolo piccolo)",Drama,8.80,5
+18334,1009,12/12/2019,Tekken,Action|Sci-Fi,7.30,5
+18335,1166,08/08/2019,Don't Look in the Basement!,Horror,7.60,4
+18336,1108,21/05/2020,"Hand, The (Ruka)",Animation,6.20,2
+18337,1183,30/07/2019,American Idiots,Comedy|Romance,8.70,3
+18338,1067,24/07/2019,Where Were You When the Lights Went Out?,Comedy,6.60,4
+18339,1123,06/02/2020,Futuresport,Action|Sci-Fi|Thriller,7.20,1
+18340,1150,20/10/2019,Give My Regards to Broad Street,Drama|Musical,8.90,3
+18341,1153,24/02/2020,Unborn in the USA: Inside the War on Abortion,Documentary,8.00,2
+18342,1052,21/11/2019,"Lift, De",Horror|Thriller,5.30,3
+18343,1187,30/04/2020,We Were Here,Documentary,5.70,4
+18344,1089,25/03/2020,The Runner from Ravenshead,Children,8.30,1
+18345,1185,08/08/2019,Siddhartha,Drama,8.90,2
+18346,1138,05/02/2020,Prowl,Horror,6.60,2
+18347,1161,19/01/2020,Bullets Don't Argue,Western,8.00,1
+18348,1032,21/08/2019,Hey Ram,Drama,9.70,4
+18349,1070,05/11/2019,Scary Movie 3,Comedy|Horror,9.80,3
+18350,1090,31/12/2019,Bug,Horror|Mystery|Sci-Fi,6.80,5
+18351,1028,02/10/2019,"Miss and the Doctors (Tirez la langue, mademoiselle)",Drama|Romance,6.00,2
+18352,1188,27/07/2019,Kings of the Sun,Adventure|Drama|Thriller,7.10,4
+18353,1048,26/01/2020,Blood and Wine (Blood & Wine),Crime|Drama|Thriller,8.70,5
+18354,1198,02/04/2020,Taifu Club (Taifû kurabu),Drama|Romance,5.70,2
+18355,1190,25/10/2019,Cleopatra,Comedy|Drama,5.20,4
+18356,1103,02/01/2020,"Secret Lives of Dentists, The",Drama,7.80,1
+18357,1184,17/12/2019,Human Nature,Comedy|Romance,6.10,0
+18358,1069,04/02/2020,Outfoxed: Rupert Murdoch's War on Journalism,Documentary,6.90,2
+18359,1088,13/07/2019,Dear Jesse,Documentary,5.10,4
+18360,1157,23/01/2020,Junkopia,Documentary,8.00,1
+18361,1067,17/09/2019,Randy and the Mob,Comedy|Crime,8.30,5
+18362,1180,08/05/2020,"Dunce Class on Vacation, The (Hababam sinifi tatilde)",Comedy,8.60,0
+18363,1009,19/01/2020,"Don't Worry, I'm Fine (Je vais bien, ne t'en fais pas)",Drama,5.20,2
+18364,1036,24/09/2019,Overnight,Documentary,5.40,3
+18365,1030,25/05/2019,"Study in Scarlet, A",Mystery|Thriller,10.00,0
+18366,1149,01/06/2019,Stranger by the Lake (L'inconnu du lac),Drama|Romance,7.00,1
+18367,1028,19/11/2019,Badmaash Company,Comedy|Crime|Drama,7.80,2
+18368,1098,05/09/2019,"Assassination (Ansatsu) (Assassination, The) (Assassin, The)",Action|Drama,6.90,5
+18369,1087,03/11/2019,Two Hands,Comedy|Crime|Thriller,7.10,0
+18370,1013,16/11/2019,Revolt in the Fifth Dimension,Adventure|Animation|Children,5.40,2
+18371,1130,19/09/2019,8 Seconds,Drama,9.50,3
+18372,1120,06/08/2019,Love Comes Softly,Drama|Romance|Western,8.00,1
+18373,1055,17/09/2019,For the Love of a Dog,Children,7.80,1
+18374,1140,04/05/2020,Marion Bridge,Drama,9.80,4
+18375,1139,16/05/2020,Blood Alley,Action|Adventure,6.70,0
+18376,1126,28/10/2019,Heaven and Earth (Ten to Chi to),Action|Adventure|Drama|War,9.80,0
+18377,1165,22/08/2019,Pollock,Drama,9.40,0
+18378,1009,11/01/2020,China O'Brien,Action,7.40,3
+18379,1010,19/06/2019,Five Star Final,Drama,6.80,4
+18380,1077,22/12/2019,Pornography (Pornografia),Drama|Romance|War,6.70,3
+18381,1113,28/06/2019,"Thing: Terror Takes Shape, The",Documentary,7.40,3
+18382,1057,28/12/2019,Broadcast News,Comedy|Drama|Romance,6.30,4
+18383,1088,10/05/2020,"Long and Short of It, The",Drama,5.60,0
+18384,1127,10/11/2019,People I Know,Crime|Drama,8.50,4
+18385,1151,26/05/2019,"Prize Winner of Defiance Ohio, The",Drama,6.00,1
+18386,1014,14/01/2020,"Kingdom II, The (Riget II)",Drama|Horror|Mystery,7.70,5
+18387,1041,10/12/2019,From Dusk Till Dawn 3: The Hangman's Daughter,Horror|Thriller|Western,5.50,1
+18388,1073,25/05/2019,Bush Mama,Drama,7.00,2
+18389,1168,28/12/2019,Beyond the Mind's Eye,Animation|Comedy,5.70,0
+18390,1122,26/03/2020,Jolene,Drama,6.60,3
+18391,1113,06/11/2019,Viagem a Portugal,Drama|Romance,6.20,1
+18392,1160,20/11/2019,In the Edges: The 'Grizzly Man' Session ,Documentary,6.00,2
+18393,1151,25/04/2020,Erik the Viking,Adventure|Comedy|Fantasy,7.70,5
+18394,1034,05/05/2020,Pulling Strings,Comedy|Romance,8.80,5
+18395,1082,04/10/2019,Tyler Perry's Madea's Big Happy Family,Comedy|Drama,5.80,0
+18396,1059,22/01/2020,Hercules in the Underworld,Action|Adventure|Fantasy|Sci-Fi,8.90,0
+18397,1116,14/05/2020,Vatel,Drama,7.70,1
+18398,1127,19/10/2019,Bigger Than Life,Drama|Mystery|Thriller,5.70,2
+18399,1147,08/06/2019,Les Tuche,Comedy,9.00,0
+18400,1085,05/11/2019,"Unexpected Love, An",Drama,7.10,4
+18401,1172,17/07/2019,Catlow,Comedy|Western,5.70,1
+18402,1005,24/03/2020,Ida,Drama,6.20,2
+18403,1187,16/02/2020,Honeymoon in Vegas,Comedy|Romance,8.50,4
+18404,1119,06/11/2019,Doctor Dolittle,Adventure|Children|Musical,9.30,1
+18405,1014,09/03/2020,8: The Mormon Proposition,Documentary,8.20,0
+18406,1030,15/07/2019,Navy Seals,Action|Adventure|War,5.90,1
+18407,1045,05/12/2019,"Chamber, The",Drama,6.40,0
+18408,1169,13/12/2019,Ghetto (Vilniaus Getas),War,5.60,5
+18409,1027,03/12/2019,Dark and Stormy Night,Comedy|Mystery,6.50,1
+18410,1002,26/04/2020,Latcho Drom,Documentary|Musical,8.50,0
+18411,1156,13/03/2020,Project X,Comedy,7.90,5
+18412,1090,10/08/2019,Tai Chi Master (Twin Warriors) (Tai ji: Zhang San Feng),Action|Adventure|Comedy|Drama,9.40,1
+18413,1137,24/08/2019,Hellraiser: Inferno,Horror,10.00,5
+18414,1014,21/04/2020,Husk,Horror|Thriller,5.70,0
+18415,1106,19/09/2019,"Troll in Central Park, A",Animation|Children,7.50,3
+18416,1123,19/02/2020,Karen Cries on the Bus,Drama,8.60,3
+18417,1085,24/02/2020,"Women on the 6th Floor, The (Les Femmes du 6ème Étage)",Comedy,6.50,2
+18418,1115,17/10/2019,Cowboys & Aliens,Action|Sci-Fi|Thriller|Western|IMAX,6.00,5
+18419,1144,14/09/2019,"Blue Dahlia, The",Crime|Drama|Film-Noir|Mystery|Thriller,9.40,2
+18420,1002,24/02/2020,You May Not Kiss the Bride,Action|Comedy|Crime|Romance,8.20,3
+18421,1111,15/01/2020,Olympus Has Fallen,Action|Thriller,7.70,5
+18422,1098,11/03/2020,Chasing Beauty,Documentary,9.20,1
+18423,1026,26/09/2019,"Cremator, The (Spalovac mrtvol)",Comedy|Drama|Horror|Thriller,5.60,4
+18424,1103,10/08/2019,"Bishop's Wife, The",Comedy|Drama|Romance,7.20,4
+18425,1092,28/10/2019,Love Is Strange,Drama,7.80,4
+18426,1187,03/08/2019,"Browning Version, The",Drama,8.70,4
+18427,1122,27/03/2020,Law Abiding Citizen,Drama|Thriller,8.80,2
+18428,1153,17/05/2020,Double Trouble,Action|Comedy,8.30,5
+18429,1151,28/09/2019,Chaos,Action|Crime|Drama|Thriller,9.60,3
+18430,1043,14/05/2020,Fist of the North Star,Action|Animation,8.60,2
+18431,1011,13/02/2020,Professor Layton and the Eternal Diva (Eiga Reiton-kyôju to eien no utahime),Action|Adventure|Animation|Mystery|Sci-Fi,7.60,0
+18432,1024,19/06/2019,"Imaginarium of Doctor Parnassus, The",Drama|Fantasy,9.00,4
+18433,1002,16/12/2019,"Hot Dog Program, A",Documentary,7.20,5
+18434,1089,20/07/2019,Left Behind,Action|Sci-Fi|Thriller,9.60,2
+18435,1159,23/10/2019,"Boys Are Back, The",Comedy|Drama,5.40,4
+18436,1098,02/09/2019,Dilwale Dulhania Le Jayenge,Comedy|Musical|Romance,7.80,4
+18437,1089,30/03/2020,TINY: A Story About Living Small,Documentary,6.30,5
+18438,1060,24/08/2019,"Kingdom, The",Action|Drama|Thriller,7.20,0
+18439,1055,05/02/2020,"Vertical Ray of the Sun, The (Mua he chieu thang dung)",Drama,7.50,3
+18440,1133,17/07/2019,Alexandria... Why? (Iskanderija... lih?),Drama,7.00,5
+18441,1125,09/09/2019,Buffy the Vampire Slayer,Action|Comedy|Horror,6.80,3
+18442,1062,11/05/2020,Life After Beth,Comedy|Horror|Romance,7.80,1
+18443,1154,27/08/2019,I Am Number Four,Action|Sci-Fi|Thriller|IMAX,7.30,5
+18444,1189,14/07/2019,Chinese Box,Drama|Romance,8.00,0
+18445,1074,13/02/2020,Beastie Boys: Sabotage,(no genres listed),9.20,4
+18446,1181,19/08/2019,Total Recall,Action|Sci-Fi|Thriller,6.80,3
+18447,1028,05/09/2019,Hannah Free,Drama,5.70,3
+18448,1069,01/08/2019,"Conspiracy, The",Horror|Thriller,8.00,5
+18449,1026,24/11/2019,Emma,Comedy|Drama|Romance,7.00,2
+18450,1135,26/11/2019,"Good Man in Africa, A",Action|Adventure,7.40,3
+18451,1140,15/02/2020,"Kid Stays in the Picture, The",Documentary,8.10,4
+18452,1142,25/11/2019,"Five Heartbeats, The",Drama|Musical,5.50,5
+18453,1017,08/12/2019,Overboard,Comedy|Romance,7.20,4
+18454,1189,12/08/2019,11.6,Crime|Drama,9.90,4
+18455,1100,10/12/2019,Gypsy,Musical,7.50,1
+18456,1157,21/05/2020,Either Way (Á annan veg),Comedy|Drama,6.80,3
+18457,1137,18/06/2019,Voices from the List,Documentary,9.20,0
+18458,1060,24/08/2019,From the Earth to the Moon,Adventure|Fantasy|Sci-Fi,8.70,4
+18459,1116,30/12/2019,John Mulaney: New In Town,Comedy,5.80,4
+18460,1047,06/11/2019,Finding Bliss,Comedy|Romance,5.10,4
+18461,1084,13/06/2019,99 francs,Comedy,7.00,0
+18462,1077,13/01/2020,Tamara Drewe,Comedy|Drama|Romance,5.80,1
+18463,1070,16/11/2019,"Method, The (Método, El)",Drama,8.80,1
+18464,1065,24/06/2019,Ike: Countdown to D-Day,Action|Adventure|Drama|War,7.90,0
+18465,1100,25/09/2019,Jay and Silent Bob Go Down Under,Comedy,5.70,2
+18466,1163,23/06/2019,"Toast of New Orleans, The",Musical,7.30,1
+18467,1046,10/02/2020,Dying Breed,Horror|Thriller,9.50,4
+18468,1198,22/06/2019,Aziz Ansari: Dangerously Delicious,Comedy,8.20,3
+18469,1186,31/03/2020,Palindromes,Adventure|Comedy|Drama,8.70,4
+18470,1183,23/11/2019,Dante's Inferno: An Animated Epic,Action|Animation|Fantasy,9.40,2
+18471,1007,24/09/2019,Gran Torino,Crime|Drama,8.50,2
+18472,1150,08/10/2019,"Hey, Hey, It's Esther Blueburger",Comedy|Drama,8.50,2
+18473,1110,18/09/2019,Bugsy Malone,Children|Comedy|Crime|Musical,6.90,3
+18474,1156,05/06/2019,"Jolly Boys' Last Stand, The",Comedy|Drama,7.00,2
+18475,1200,16/09/2019,Barbarian Queen II: The Empress Strikes Back,Action|Adventure|Fantasy,5.80,1
+18476,1089,03/08/2019,Crime and Punishment,Drama,6.80,5
+18477,1176,05/05/2020,Shouting Fire: Stories from the Edge of Free Speech,Documentary,8.10,1
+18478,1034,15/09/2019,Destruction Force,Crime,5.70,5
+18479,1135,31/03/2020,"Motel, The",Comedy|Drama,9.40,1
+18480,1200,13/03/2020,And Then Came Lola,Comedy|Drama|Romance,7.40,1
+18481,1172,11/07/2019,Concrete Night (Betoniyö),Drama,9.10,2
+18482,1109,25/06/2019,Cabaret,Drama|Musical,6.60,1
+18483,1190,31/03/2020,Finian's Rainbow,Fantasy|Musical,9.90,4
+18484,1187,27/11/2019,Guess Who,Comedy|Romance,5.30,5
+18485,1113,01/07/2019,The Man from Acapulco,Action|Comedy|Fantasy|Romance,6.30,3
+18486,1051,04/07/2019,Caught,Drama|Film-Noir,7.10,2
+18487,1092,30/07/2019,Nick of Time,Action|Thriller,6.00,3
+18488,1139,21/11/2019,It Felt Like a Kiss,Documentary,8.00,5
+18489,1077,04/03/2020,Liliom,Drama|Fantasy,5.50,4
+18490,1030,01/04/2020,"Earth Is a Sinful Song, The (Maa on syntinen laulu)",Drama,8.90,1
+18491,1012,19/07/2019,Dance with Me,Drama|Romance,5.20,1
+18492,1030,02/11/2019,"Sierra, La",Documentary,5.00,3
+18493,1087,12/10/2019,"Ali Zoua: Prince of the Streets (Ali Zaoua, prince de la rue)",Crime|Drama,8.00,1
+18494,1072,22/09/2019,"Come Back, Little Sheba",Drama,6.20,5
+18495,1197,24/11/2019,Straight to Hell,Comedy|Crime|Western,9.80,2
+18496,1149,01/08/2019,Thawing Out (La fonte des neiges) ,Comedy|Drama,5.80,1
+18497,1122,19/08/2019,Ransom (a.k.a. The Terrorists),Crime|Thriller,7.20,2
+18498,1165,19/11/2019,"Most Hated Family in America, The",Documentary,8.90,3
+18499,1106,20/07/2019,Lightning in a Bottle,Documentary,7.40,1
+18500,1184,17/01/2020,Awesome; I Fuckin Shot That!,Documentary|Musical,8.50,4
+18501,1056,22/05/2020,Win a Date with Tad Hamilton!,Comedy|Romance,7.60,5
+18502,1102,30/03/2020,Direct Contact,Action,5.30,5
+18503,1024,22/09/2019,"Inn of the Sixth Happiness, The",Adventure|Drama,8.00,5
+18504,1153,20/03/2020,Advantageous,Children|Drama|Sci-Fi,8.80,4
+18505,1120,20/05/2020,"Romance of Astrea and Celadon, The (Les amours d'Astrée et de Céladon)",Drama|Romance,6.50,5
+18506,1184,06/10/2019,As We Were Dreaming,(no genres listed),5.30,4
+18507,1199,18/04/2020,Evil (Ondskan),Drama,6.10,4
+18508,1055,17/08/2019,Lord of the Flies,Adventure|Drama|Thriller,5.50,0
+18509,1101,13/09/2019,I Belong (Som du ser meg),Drama,9.40,1
+18510,1158,19/08/2019,Captain January,Drama,5.80,4
+18511,1044,01/06/2019,Cocaine Cowboys,Documentary,9.70,3
+18512,1077,28/08/2019,Jackpot 2,Sci-Fi,9.60,5
+18513,1191,29/04/2020,"Legend of Lobo, The",Adventure|Children,7.40,0
+18514,1196,18/11/2019,Wilder Napalm,Comedy|Fantasy|Romance,9.20,2
+18515,1074,18/04/2020,Roula,Drama,8.20,5
+18516,1013,24/08/2019,"Wreck of the Mary Deare, The",Drama|Thriller,6.30,2
+18517,1132,27/06/2019,Damn the Defiant! (H.M.S. Defiant),Adventure|Drama,9.10,3
+18518,1078,02/02/2020,"Sweet Jesus, Preacherman",Action|Drama,7.00,4
+18519,1175,09/01/2020,"Angriest Man in Brooklyn, The",Comedy|Drama,6.50,1
+18520,1147,29/01/2020,Christmas Eve,Comedy|Drama,8.40,1
+18521,1048,08/07/2019,"Keys of the Kingdom, The",Drama,5.80,2
+18522,1180,23/01/2020,"Execution of P, The (Kinatay)",Crime|Thriller,7.70,0
+18523,1053,25/10/2019,"Debut, The",Comedy|Drama,5.60,5
+18524,1041,14/09/2019,Fort Bliss,Drama|War,7.70,2
+18525,1012,30/11/2019,At Middleton,Comedy|Romance,7.40,0
+18526,1190,22/10/2019,"Limits of Control, The",Crime|Drama|Film-Noir,9.60,4
+18527,1025,29/07/2019,Welcome to the Sticks (Bienvenue chez les Ch'tis),Comedy,6.40,4
+18528,1196,07/12/2019,Wendy and Lucy,Drama,6.00,1
+18529,1066,02/07/2019,Road Hard,Comedy,8.60,2
+18530,1193,14/11/2019,War Made Easy: How Presidents & Pundits Keep Spinning Us to Death,Documentary|War,8.90,1
+18531,1088,28/03/2020,Halloween,Horror,9.70,2
+18532,1016,26/10/2019,A True Mob Story,(no genres listed),6.40,2
+18533,1011,11/05/2020,Johnny Eager,Crime|Drama|Film-Noir|Romance,9.20,3
+18534,1065,12/03/2020,"Blue Dahlia, The",Crime|Drama|Film-Noir|Mystery|Thriller,7.00,4
+18535,1148,08/06/2019,"Danse: The Paris Opera Ballet, La (La Danse - Le ballet de l'Opéra de Paris)",Documentary,5.10,3
+18536,1103,14/07/2019,Willard,Horror,7.30,5
+18537,1037,21/04/2020,Mr. Untouchable,Crime|Documentary,6.10,5
+18538,1070,29/01/2020,8 Heads in a Duffel Bag,Comedy,8.00,4
+18539,1018,04/05/2020,"Ace of Aces (a.k.a. Super Ace, The) (As des as, L')",Adventure|Comedy,6.90,0
+18540,1131,23/04/2020,Adoration,Drama,6.10,5
+18541,1007,14/01/2020,Hunger,Drama,8.10,2
+18542,1155,06/02/2020,My Tutor,Drama,7.40,2
+18543,1020,17/06/2019,Chariots of Fire,Drama,5.30,0
+18544,1001,06/04/2020,The Power and the Glory,Drama,8.40,3
+18545,1013,06/11/2019,Tales of Ordinary Madness (Storie di Ordinaria Follia),Drama,6.80,3
+18546,1079,30/06/2019,"Letter, The",Drama,6.30,1
+18547,1176,31/12/2019,Bad Boy Bubby,Drama,7.00,2
+18548,1011,17/01/2020,"Swan Princess: Escape from Castle Mountain, The",Animation|Children|Fantasy|Romance,8.50,3
+18549,1193,02/03/2020,"Inbetweeners Movie, The",Adventure|Comedy,8.90,5
+18550,1030,08/01/2020,St. Vincent,Comedy,6.80,3
+18551,1156,13/05/2020,"South Park: Bigger, Longer and Uncut",Animation|Comedy|Musical,9.80,4
+18552,1190,12/09/2019,Tonight You're Mine,Comedy|Drama,7.00,3
+18553,1172,26/11/2019,Fantomas vs. Scotland Yard,Adventure|Comedy|Crime|Fantasy,7.80,4
+18554,1084,18/07/2019,"You're a Good Man, Charlie Brown",Animation|Comedy|Musical,7.80,3
+18555,1182,11/12/2019,"Fist of Fury (Chinese Connection, The) (Jing wu men)",Action|Drama|Romance|Thriller,6.70,2
+18556,1037,04/05/2020,Killer: A Journal of Murder,Crime|Drama,5.40,0
+18557,1181,25/02/2020,"Ninth Gate, The",Fantasy|Horror|Mystery|Thriller,9.50,1
+18558,1121,26/07/2019,Lucrèce Borgia,(no genres listed),6.10,4
+18559,1057,24/04/2020,Willow,Action|Adventure|Fantasy,7.20,1
+18560,1058,25/03/2020,Lost Youth,(no genres listed),6.10,4
+18561,1004,28/12/2019,Wing Commander,Action|Sci-Fi,5.50,0
+18562,1052,28/07/2019,"Dossier 51 (Dossier 51, Le)",Crime|Drama,5.60,1
+18563,1129,07/08/2019,Blood and Bones (Chi to hone),Drama,9.00,1
+18564,1163,06/05/2020,Makai Tensho: Samurai Reincarnation (Makai tenshô),Action|Fantasy|Horror,7.30,1
+18565,1199,27/11/2019,Do Not Disturb,Comedy,5.70,5
+18566,1178,19/07/2019,Nordkraft,Crime|Drama|Romance,5.40,5
+18567,1122,12/06/2019,The Thirteen Assassins,Action|Adventure,6.30,1
+18568,1105,15/08/2019,"As Luck Would Have It (Chispa de la vida, La)",Drama,5.80,4
+18569,1071,25/12/2019,"Definitely, Maybe",Comedy|Drama|Romance,9.90,5
+18570,1054,13/04/2020,Berserk: The Golden Age Arc - The Egg of the King,Action|Adventure|Animation|Fantasy|Horror,8.10,3
+18571,1097,07/01/2020,"Front Page, The",Comedy|Drama|Romance,5.40,2
+18572,1127,24/09/2019,Gardens of the Night,Drama,9.10,3
+18573,1021,01/04/2020,Maniacts,Action|Comedy|Drama|Horror|Romance,9.10,1
+18574,1096,10/10/2019,Up!,Comedy,5.50,1
+18575,1082,13/08/2019,Feiern,Documentary,5.80,4
+18576,1100,07/11/2019,Garden Lovers (Eedenistä pohjoiseen),Documentary,9.40,0
+18577,1045,11/06/2019,"Perfect World, A",Crime|Drama|Thriller,5.60,1
+18578,1002,18/01/2020,Brazil,Fantasy|Sci-Fi,9.90,2
+18579,1007,16/12/2019,Sexmission (Seksmisja),Adventure|Comedy|Sci-Fi,8.80,3
+18580,1086,05/08/2019,Memories of Underdevelopment (Memorias del subdesarrollo),Drama,7.70,5
+18581,1167,16/05/2020,Mystic Pizza,Comedy|Drama|Romance,7.50,3
+18582,1153,30/11/2019,As Cool As I Am,Comedy|Drama,5.30,3
+18583,1184,16/12/2019,Papa's Delicate Condition,Comedy,7.20,0
+18584,1152,07/05/2020,Prowl,Horror,6.00,5
+18585,1004,14/11/2019,"Young and the Dead, The",Documentary,5.00,5
+18586,1141,19/11/2019,O.C. and Stiggs,Comedy,8.10,3
+18587,1190,23/07/2019,I'm Not There,Drama,8.40,1
+18588,1044,16/06/2019,5 Against the House,Crime|Drama|Film-Noir,9.60,2
+18589,1053,24/09/2019,Foreign Intrigue,Thriller,9.10,1
+18590,1185,21/02/2020,Angel's Egg (Tenshi no tamago),Animation|Drama|Fantasy,5.90,4
+18591,1066,06/01/2020,What Happens in Vegas...,Comedy|Romance,6.70,3
+18592,1198,24/01/2020,"Night to Remember, A",Comedy|Mystery,8.80,4
+18593,1132,09/09/2019,"Breaks, The",Comedy,6.50,4
+18594,1112,29/09/2019,Follow the Bitch,Comedy,8.70,5
+18595,1084,10/05/2020,Waydowntown,Comedy,6.40,4
+18596,1156,29/06/2019,Toute la mémoire du monde,Documentary,6.60,4
+18597,1014,04/10/2019,"Tuskegee Airmen, The",Drama|War,5.10,0
+18598,1070,18/04/2020,Halloween,(no genres listed),9.60,4
+18599,1175,17/04/2020,"Haunted Castle, The (Schloß Vogeloed)",Crime|Drama|Horror|Mystery,5.60,4
+18600,1027,30/11/2019,Shara (Sharasojyu),Drama,9.60,4
+18601,1053,06/01/2020,6954 Kilometriä Kotiin,Documentary,9.90,5
+18602,1039,25/12/2019,Elvis: That's the Way It Is,Documentary,9.20,5
+18603,1094,17/03/2020,Chicago,Comedy|Crime|Drama|Musical,7.70,0
+18604,1166,07/07/2019,Scorching Winds (Garm Hava) (Garam Hawa),Drama,6.00,4
+18605,1140,22/11/2019,Night of the Demons,Horror,9.10,0
+18606,1069,10/08/2019,Domino,Crime|Drama|Thriller,9.80,3
+18607,1044,24/08/2019,"Little Romance, A",Comedy|Romance,7.20,4
+18608,1119,23/04/2020,No One Lives,Horror|Thriller,7.80,3
+18609,1056,08/09/2019,Tango,Drama|Musical,6.60,0
+18610,1018,24/09/2019,Rovaniemen markkinoilla,Comedy|Musical,9.60,3
+18611,1127,05/08/2019,D-War (Dragon Wars),Action|Adventure|Drama|Fantasy,8.50,0
+18612,1061,17/08/2019,Lean on Me,Drama,7.70,0
+18613,1068,22/06/2019,Hackers,Action|Adventure|Crime|Thriller,7.50,1
+18614,1028,22/09/2019,Aerial Gunner,Drama|War,9.60,2
+18615,1104,24/09/2019,Taifu Club (Taifû kurabu),Drama|Romance,9.90,5
+18616,1036,13/09/2019,National Treasure: Book of Secrets,Action|Adventure,8.80,0
+18617,1060,03/01/2020,Swing Vote,Comedy|Drama,7.10,5
+18618,1124,17/08/2019,Snarveien (Detour),Horror|Thriller,5.20,0
+18619,1050,22/09/2019,"Slammin' Salmon, The",Comedy,9.10,0
+18620,1158,19/04/2020,Declaration of War (La Guerre est Déclarée),Drama,6.80,5
+18621,1186,22/04/2020,Neds,Drama,9.10,4
+18622,1077,10/01/2020,Thursday,Action|Crime|Thriller,9.40,3
+18623,1035,18/09/2019,"Bohemian Life, The (La vie de bohème)",Comedy|Drama,9.10,4
+18624,1186,22/02/2020,Winners and Sinners (Qi mou miao ji: Wu fu xing),Action|Comedy|Crime,7.80,0
+18625,1079,13/06/2019,Masterminds,Action|Comedy|Thriller,7.10,2
+18626,1133,04/06/2019,"Bill Cosby, Himself",Comedy|Documentary,8.60,4
+18627,1100,12/10/2019,"Lovely, Still",Drama|Romance,7.70,5
+18628,1002,14/06/2019,"Too Early, Too Late (Trop tôt, trop tard)",Drama,5.00,5
+18629,1171,19/06/2019,Dying of Laughter (Muertos de Risa),Comedy,6.30,0
+18630,1118,19/05/2020,"Light at the Edge of the World, The",Adventure,6.10,4
+18631,1198,31/05/2019,Behind the Screen,Comedy|Romance,5.40,0
+18632,1029,22/05/2020,Our Blushing Brides,Drama,9.30,4
+18633,1005,19/09/2019,Just My Luck,Comedy|Romance,5.50,2
+18634,1050,15/09/2019,Mr Hockey The Gordie Howe Story,Drama,9.60,2
+18635,1189,14/01/2020,The Cabin in the Cotton,Drama,7.80,0
+18636,1076,12/01/2020,Don't Tell Anyone (No se lo digas a nadie),Comedy|Drama,5.80,4
+18637,1059,30/07/2019,"Feuer, Eis & Dosenbier",Comedy,7.40,0
+18638,1118,02/12/2019,Kim,Children|Drama,7.50,1
+18639,1022,22/11/2019,"Rock-afire Explosion, The",Documentary,5.90,5
+18640,1199,27/01/2020,Pajama Party,Comedy,9.20,1
+18641,1021,10/07/2019,Forty Shades of Blue,Drama,5.80,0
+18642,1150,14/02/2020,Torpedo Bombers (Torpedonostsy),Drama|War,8.00,0
+18643,1067,07/05/2020,Shalako,Western,9.90,4
+18644,1180,17/02/2020,Alice in Wonderland,Adventure|Fantasy|IMAX,8.70,3
+18645,1021,26/11/2019,Across the Hall,Thriller,8.00,3
+18646,1044,16/01/2020,Motel Hell,Comedy|Horror,6.30,0
+18647,1003,02/04/2020,Disney Princess Collection: Jasmine's Enchanted Tales: Jasmine's Wish,Animation,8.60,1
+18648,1127,30/07/2019,We Still Kill the Old Way,Crime,6.40,5
+18649,1005,03/07/2019,"Private Life of Sherlock Holmes, The",Comedy|Drama|Mystery,7.80,5
+18650,1122,04/06/2019,Symbol (Shinboru),Comedy|Fantasy,6.10,1
+18651,1114,11/10/2019,"Secret Adventures of Tom Thumb, The",Adventure|Animation,7.70,3
+18652,1049,03/10/2019,Inception,Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,8.40,5
+18653,1056,05/11/2019,Absolute Giganten,Action|Comedy|Drama|Romance,8.30,5
+18654,1026,29/11/2019,Map of the Sounds of Tokyo,Drama|Thriller,7.10,4
+18655,1191,24/07/2019,Quebrando o Tabu,Documentary,7.40,2
+18656,1107,31/01/2020,All Relative,Comedy|Drama|Romance,5.40,1
+18657,1109,01/11/2019,Bye Bye Birdie,Comedy|Musical,9.70,3
+18658,1039,23/04/2020,"Last Witness, The",Drama|Thriller,8.60,5
+18659,1048,29/08/2019,Linda Linda Linda,Comedy|Drama,5.40,0
+18660,1069,18/08/2019,Absentia,Horror,9.40,1
+18661,1198,06/11/2019,Dead Silence,Action|Drama|Thriller,9.20,4
+18662,1022,12/11/2019,Out of the Ashes,Drama,7.90,2
+18663,1038,07/01/2020,1,Action|Mystery|Romance,7.60,0
+18664,1058,29/04/2020,"Ninja, A Band of Assassins (Shinobi No Mono)",Action|Drama,6.70,2
+18665,1084,24/09/2019,I Even Met Happy Gypsies (Skupljaci perja),Drama,9.20,2
+18666,1074,29/10/2019,"War Zone, The",Drama|Thriller,8.00,1
+18667,1100,03/12/2019,Tarzan's Secret Treasure,Action|Adventure,6.40,2
+18668,1090,07/10/2019,Short Circuit 2,Comedy|Sci-Fi,7.00,0
+18669,1131,08/03/2020,My Brother Is an Only Child (Mio fratello è figlio unico),Comedy|Crime|Drama,8.20,2
+18670,1057,24/10/2019,In a Town This Size,Documentary,9.30,5
+18671,1083,14/10/2019,101 Dalmatians,Adventure|Children|Comedy,9.40,4
+18672,1181,08/11/2019,Stuart Little,Children|Comedy|Fantasy,8.20,0
+18673,1001,02/11/2019,Paraíso Travel,Adventure|Drama|Romance,7.20,3
+18674,1181,19/01/2020,Minnie and Moskowitz,Action,5.30,4
+18675,1093,22/03/2020,Interview with a Hitman,Action|Thriller,8.70,5
+18676,1029,07/05/2020,I Can't Sleep (J'ai pas sommeil),Drama|Thriller,7.60,2
+18677,1197,28/06/2019,How to Get Ahead in Advertising,Comedy|Fantasy,9.40,5
+18678,1084,18/10/2019,True Believer,Crime,5.40,5
+18679,1156,20/07/2019,"Armstrong Lie, The",Documentary,9.70,5
+18680,1168,28/03/2020,Goldene Zeiten,Comedy|Crime|Drama,5.90,5
+18681,1097,01/10/2019,"Best of Ernie and Bert, The",Children,5.50,1
+18682,1106,16/10/2019,Taxi 3,Action|Comedy,9.80,2
+18683,1064,21/09/2019,"Bottom of the Sea, The (El fondo del mar)",Drama|Thriller,6.10,3
+18684,1153,16/02/2020,Billy's Holiday,Drama|Musical,9.60,5
+18685,1150,25/05/2019,"Ideal Husband, An",Comedy|Romance,9.80,0
+18686,1137,20/06/2019,Sirocco,Action|Drama,9.50,0
+18687,1199,28/02/2020,Batman: Year One,Action|Animation|Crime,7.70,0
+18688,1042,17/06/2019,Career,Drama,8.80,0
+18689,1120,29/04/2020,"Private Life of Henry VIII, The",Comedy|Drama,6.50,1
+18690,1159,22/10/2019,Barb Wire,Action|Sci-Fi,8.20,0
+18691,1122,05/09/2019,"Now You See Him, Now You Don't",Comedy|Sci-Fi,6.30,0
+18692,1056,30/07/2019,On a Clear Day You Can See Forever,Comedy|Musical|Romance,5.80,1
+18693,1098,05/03/2020,Things We Do For Love (Kaikella rakkaudella),Drama,5.80,0
+18694,1049,13/10/2019,"Dreamlife of Angels, The (Vie rêvée des anges, La)",Drama,6.50,2
+18695,1170,12/06/2019,Sidewalks of London (St. Martin's Lane),Comedy,6.40,5
+18696,1187,28/02/2020,Santa Who?,Comedy|Fantasy,5.20,3
+18697,1090,13/09/2019,That Darn Cat,Children|Comedy|Mystery,7.10,0
+18698,1064,19/04/2020,Detective Dee and the Mystery of the Phantom Flame (Di Renjie),Action|Crime|Mystery,5.90,5
+18699,1163,13/04/2020,"Magic Voyage of Sindbad, The (Sadko)",Adventure|Fantasy,7.00,2
+18700,1180,26/05/2019,"Darkest Hour, The",Action|Horror|Sci-Fi|Thriller,5.10,4
+18701,1035,29/08/2019,First Shot,Action,8.20,5
+18702,1103,15/04/2020,Like Water,Documentary,8.30,4
+18703,1119,17/11/2019,1½ Knights - In Search of the Ravishing Princess Herzelinde,Comedy,8.80,0
+18704,1099,16/11/2019,Wish You Were Here,Drama|Mystery,6.10,3
+18705,1104,19/06/2019,Two Night Stand,Comedy|Romance,5.10,4
+18706,1076,06/08/2019,100 Bloody Acres,Comedy|Horror,9.90,3
+18707,1066,15/03/2020,Cremaster 5,Drama|Musical,5.10,3
+18708,1157,07/08/2019,Are You Listening?,Drama,8.50,3
+18709,1003,16/11/2019,Mimic: Sentinel,Horror|Sci-Fi|Thriller,9.90,5
+18710,1029,09/07/2019,Jersey Girl,Comedy|Drama|Romance,8.80,2
+18711,1005,29/01/2020,102 Dalmatians,Children|Comedy,8.80,4
+18712,1120,22/09/2019,Navajo Joe,Western,8.50,5
+18713,1055,24/04/2020,Ong-Bak 2: The Beginning (Ong Bak 2),Action,10.00,5
+18714,1155,10/01/2020,Angela's Ashes,Drama,7.00,0
+18715,1180,23/01/2020,Journey Into Fear,Drama|Film-Noir|War,7.90,1
+18716,1109,12/08/2019,The Gunman,Action|Thriller,8.60,0
+18717,1099,17/02/2020,Meatballs 4,Comedy,5.90,1
+18718,1076,13/10/2019,"Look of Silence, The",Documentary,7.00,0
+18719,1181,08/06/2019,Milius,Documentary,6.90,3
+18720,1166,29/08/2019,Viola,Drama,7.90,1
+18721,1190,14/05/2020,All American Orgy (Cummings Farm),Comedy,7.50,0
+18722,1063,08/10/2019,"Amazing Transparent Man, The",Sci-Fi,5.20,4
+18723,1060,13/02/2020,Santa with Muscles,Comedy,5.80,1
+18724,1056,20/02/2020,Home Sweet Home,Comedy,9.10,1
+18725,1011,08/09/2019,Little Richard,Drama,8.90,0
+18726,1092,03/11/2019,Sexual Chronicles of a French Family (Chroniques sexuelles d'une famille d'aujourd'hui),Comedy|Drama,6.50,1
+18727,1006,27/07/2019,"Next Man, The",Action|Thriller,5.10,3
+18728,1026,23/02/2020,"Man Who Quit Smoking, The (Mannen som slutade röka)",Comedy,9.10,4
+18729,1017,02/07/2019,"Fûke, De",Drama|War,5.80,1
+18730,1065,29/09/2019,"Opportunists, The",Comedy|Crime|Drama,7.50,2
+18731,1013,08/05/2020,You're Gonna Miss Me,Documentary,7.70,4
+18732,1009,22/12/2019,"Monkey's Tale, A (Château des singes, Le)",Animation|Children,7.80,0
+18733,1018,28/08/2019,"Plot Against Harry, The",Comedy,9.20,3
+18734,1198,09/07/2019,All the Young Men,Drama|War,7.70,4
+18735,1084,17/08/2019,Attack Force,Action|Horror|Sci-Fi,8.00,2
+18736,1133,27/12/2019,Agatha Christie's 'Ten Little Indians' (Ten Little Indians) (And Then There Were None),Mystery,8.00,2
+18737,1171,05/06/2019,Female Vampire (Les avaleuses) (Erotic Kill),Horror,6.20,3
+18738,1137,27/11/2019,Machine Gun Preacher,Action|Crime,6.30,1
+18739,1044,13/07/2019,New York Minute,Action|Adventure|Comedy,8.60,2
+18740,1027,03/03/2020,Crime and Punishment,Drama,8.30,1
+18741,1047,29/08/2019,Crazy Thunder Road,Action|Sci-Fi,6.40,2
+18742,1103,11/04/2020,I'll Be There,Comedy|Musical|Romance,9.30,3
+18743,1021,13/11/2019,Poetry (Shi),Drama,5.10,4
+18744,1137,29/01/2020,Le créateur ,Comedy,6.40,2
+18745,1185,28/02/2020,Mark Twain,Documentary,6.80,2
+18746,1104,17/08/2019,Ghost,Comedy|Drama|Fantasy|Romance|Thriller,8.00,1
+18747,1107,30/09/2019,Summer with Monika (Sommaren med Monika),Drama|Romance,7.10,4
+18748,1132,05/07/2019,"Dead Pool, The",Action|Crime|Thriller,6.90,5
+18749,1187,16/07/2019,"Mickey, Donald, Goofy: The Three Musketeers",Adventure|Animation|Children|Comedy,6.40,1
+18750,1133,02/05/2020,"League of Ordinary Gentlemen, A",Documentary,6.20,2
+18751,1048,09/12/2019,A Kind of America 2,Comedy,8.20,1
+18752,1131,08/05/2020,Jingle All the Way,Children|Comedy,9.00,4
+18753,1187,13/01/2020,Double Happiness,Drama,9.80,0
+18754,1030,30/05/2019,Under the Domim Tree (Etz Hadomim Tafus),Drama,9.30,5
+18755,1101,25/05/2019,Light It Up,Drama,6.30,3
+18756,1098,20/11/2019,Two Can Play That Game,Comedy|Drama,9.20,1
+18757,1114,30/03/2020,Wild About Harry,Comedy|Drama|Romance,6.30,3
+18758,1073,05/02/2020,Bending the Rules,Action|Drama,7.90,2
+18759,1057,17/05/2020,Star Trek: First Contact,Action|Adventure|Sci-Fi|Thriller,9.90,1
+18760,1001,13/07/2019,"Godzilla, Mothra, and King Ghidorah: Giant Monsters All-Out Attack (Gojira, Mosura, Kingu Gidorâ: Daikaijû sôkôgeki) (Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack)",Action|Fantasy|Sci-Fi,8.90,0
+18761,1069,20/11/2019,"Royal Scandal, The",Crime|Mystery,8.10,5
+18762,1091,23/10/2019,Dead Within,Drama|Horror|Thriller,9.50,5
+18763,1155,22/07/2019,Under Siege 2: Dark Territory,Action,5.10,1
+18764,1090,17/12/2019,Aeon Flux,Action|Sci-Fi,9.40,4
+18765,1198,13/10/2019,The Time of Their Lives,Comedy|Fantasy|Romance|Thriller,9.60,4
+18766,1090,03/08/2019,I'll Be Home For Christmas,Comedy|Romance,8.70,3
+18767,1008,30/11/2019,Invincible,Drama,5.20,4
+18768,1055,16/05/2020,"Septième juré, Le",Crime|Drama,8.50,2
+18769,1042,08/11/2019,My Super Ex-Girlfriend,Comedy|Fantasy|Romance,7.30,0
+18770,1165,17/03/2020,Homer & Eddie,Drama,6.70,0
+18771,1066,10/11/2019,"Silent One, The",Adventure|Children|Drama,7.00,0
+18772,1022,10/10/2019,"Tarnished Angels, The",Drama,7.50,1
+18773,1142,19/08/2019,Grandmother,Drama,5.60,1
+18774,1083,12/09/2019,Jerry and Tom,Comedy|Crime|Drama,5.40,3
+18775,1053,14/04/2020,Caprice,Comedy|Crime|Thriller,9.90,1
+18776,1098,03/09/2019,"Secret of Santa Vittoria, The",Comedy|Drama|War,9.60,4
+18777,1148,24/10/2019,One Week,Comedy,8.20,2
+18778,1145,20/07/2019,Dream (Bi-mong),Drama|Fantasy|Mystery|Romance,9.40,4
+18779,1055,02/01/2020,Sidestreet,Documentary,6.50,3
+18780,1094,28/08/2019,Shenandoah,Documentary,9.80,0
+18781,1126,16/06/2019,Sweet Smell of Success,Drama|Film-Noir,7.20,1
+18782,1167,04/11/2019,Delicatessen,Comedy|Drama|Romance,9.40,1
+18783,1077,13/04/2020,"Five Wives, Three Secretaries and Me",Documentary,9.00,5
+18784,1125,11/11/2019,"Birdsong (Cant dels ocells, El)",Drama,5.30,0
+18785,1184,04/05/2020,Kokowääh,Comedy,9.20,4
+18786,1107,30/11/2019,Frances Ha,Comedy|Drama,8.90,2
+18787,1045,30/07/2019,"Best Offer, The (Migliore offerta, La)",Thriller,9.80,0
+18788,1055,06/09/2019,House Party 3,Comedy,7.90,4
+18789,1114,19/01/2020,Kandahar (Safar e Ghandehar),Drama,8.10,1
+18790,1199,03/12/2019,When Darkness Falls (När mörkret faller),Drama,9.70,0
+18791,1065,01/12/2019,Balto: Wolf Quest ,Adventure|Animation|Children,6.50,1
+18792,1004,06/08/2019,Farce of the Penguins,Comedy,6.80,5
+18793,1036,12/03/2020,Fishtales,Children|Fantasy,5.60,0
+18794,1115,15/07/2019,"Girl, The",Drama|Mystery|Romance,6.40,2
+18795,1027,16/06/2019,Donkey Xote,Animation,7.00,2
+18796,1168,14/08/2019,Naked Harbour (Vuosaari),Drama,9.20,1
+18797,1173,14/01/2020,Abbott and Costello Meet the Invisible Man,Comedy|Sci-Fi,6.50,4
+18798,1143,26/08/2019,Four Lions,Comedy|Drama,6.30,4
+18799,1016,05/07/2019,North West Frontier,Adventure|Drama|War,9.80,2
+18800,1114,26/12/2019,Crisis (Kris),Drama,7.40,5
+18801,1160,05/07/2019,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni)",Action|Animation|Drama|Fantasy|Sci-Fi,9.90,0
+18802,1085,08/10/2019,My Boyfriends' Dogs,Comedy,6.00,1
+18803,1088,14/09/2019,IMAX: Hubble 3D,Documentary|IMAX,8.60,0
+18804,1062,14/10/2019,Saving General Yang,Adventure,9.50,5
+18805,1178,19/10/2019,History of Hell (Rosas Höllenfahrt),Documentary,6.00,4
+18806,1072,22/05/2020,Legalese,Crime|Drama|Romance,8.60,3
+18807,1195,26/02/2020,"What Happened, Miss Simone?",Documentary,5.70,3
+18808,1055,25/02/2020,Unbeatable (Ji zhan),Action|Drama,8.10,4
+18809,1087,04/02/2020,"Astronaut Farmer, The",Drama,9.50,5
+18810,1059,25/08/2019,"Hole, The",Horror|Thriller,7.20,0
+18811,1100,23/12/2019,Vanishing on 7th Street,Horror|Mystery|Thriller,6.70,0
+18812,1169,07/02/2020,6ixtynin9 (Ruang Talok 69),Action|Comedy|Thriller,5.60,1
+18813,1085,01/12/2019,Shamus,Crime|Mystery,9.90,2
+18814,1052,21/09/2019,Wilbur Wants to Kill Himself,Comedy|Drama|Romance,6.00,2
+18815,1044,12/06/2019,Beloved (Les bien-aimées),Drama|Musical|Romance,9.60,2
+18816,1002,22/02/2020,"Alamo, The",Drama|War|Western,8.70,2
+18817,1001,22/12/2019,"Return of Django (Son of Django) (Figlio di Django, Il)",Western,6.40,0
+18818,1115,08/03/2020,"Entitled, The",Thriller,5.60,5
+18819,1184,04/06/2019,All Fall Down,Drama,8.80,5
+18820,1113,25/10/2019,Repentance (Monanieba),Drama,8.90,3
+18821,1150,19/10/2019,Splitting Heirs,Comedy,9.70,1
+18822,1128,20/03/2020,Bulletproof Monk,Action|Adventure|Sci-Fi,8.50,5
+18823,1189,28/10/2019,Doomwatch,Mystery|Sci-Fi|Thriller,8.80,3
+18824,1135,20/04/2020,Jessabelle,Horror|Thriller,6.60,4
+18825,1075,21/08/2019,Somewhere Under the Broad Sky,(no genres listed),5.20,4
+18826,1081,06/08/2019,Katt Williams: The Pimp Chronicles Pt. 1,Comedy|Documentary,9.40,1
+18827,1126,04/01/2020,"Surfer, Dude",Comedy,5.20,1
+18828,1005,26/06/2019,"Mummy's Tomb, The",Horror,5.60,5
+18829,1102,12/07/2019,"Clap, You're Dead",(no genres listed),5.90,3
+18830,1096,05/08/2019,Grave Halloween,Horror,5.60,4
+18831,1120,09/06/2019,Summer Things (Embrassez qui vous voudrez),Comedy|Drama|Romance,5.00,2
+18832,1170,02/05/2020,City Slickers,Comedy|Western,6.00,3
+18833,1155,16/03/2020,It's a Free World...,Drama,9.00,4
+18834,1192,16/06/2019,Nekromantik 2,Horror,7.40,5
+18835,1118,29/07/2019,Endgame,Drama,7.60,0
+18836,1158,04/03/2020,Fire Over England,Adventure|Romance|War,5.60,3
+18837,1097,15/02/2020,Wend Kuuni (a.k.a. God's Gift),Drama,9.80,0
+18838,1023,10/02/2020,Hobo with a Shotgun,Action|Adventure|Crime|Thriller,8.10,2
+18839,1173,22/01/2020,Two Men in Manhattan (Deux hommes dans Manhattan),Crime|Drama|Thriller,8.80,4
+18840,1009,18/04/2020,Stuart Little 3: Call of the Wild,Animation|Children|Comedy|Fantasy,8.10,1
+18841,1189,14/04/2020,Family Plot,Comedy|Thriller,5.90,2
+18842,1145,29/09/2019,Sabah,Comedy|Drama|Romance,8.50,3
+18843,1110,03/01/2020,Critters 3,Comedy|Sci-Fi,7.30,4
+18844,1135,06/03/2020,Masks (Masques),Thriller,6.40,1
+18845,1091,30/07/2019,Antonio das Mortes (O Dragão da Maldade contra o Santo Guerreiro),Drama|Western,8.00,0
+18846,1044,03/03/2020,Peep World,Comedy,7.20,2
+18847,1138,30/01/2020,Double Indemnity,Crime|Drama|Thriller,9.40,0
+18848,1050,04/10/2019,"Secret of the Grain, The (La graine et le mulet)",Drama,9.40,0
+18849,1189,20/07/2019,Charlotte Gray,Drama|Romance,6.90,2
+18850,1149,27/11/2019,Another Chance,Comedy,6.70,5
+18851,1039,08/11/2019,Gang Tapes,Drama,5.00,1
+18852,1121,13/06/2019,Ex-Girlfriends,Comedy|Drama,8.90,2
+18853,1066,04/08/2019,Love Stinks,Comedy,5.30,2
+18854,1112,15/09/2019,MacGyver: Lost Treasure of Atlantis,Action|Adventure,8.40,2
+18855,1050,12/08/2019,"Silence, The (Tystnaden)",Drama,9.10,4
+18856,1126,29/01/2020,Shadows of Our Forgotten Ancestors (Tini zabutykh predkiv),Drama|Romance,6.30,2
+18857,1194,08/06/2019,"Touch of Spice, A (Politiki kouzina)",Comedy|Drama,7.80,4
+18858,1007,31/01/2020,Watership Down,Adventure|Animation|Children|Drama|Fantasy,5.60,4
+18859,1058,25/02/2020,"Damned, The (Les Maudits)",Drama,9.20,4
+18860,1163,28/11/2019,Life During Wartime,Comedy|Drama,9.50,3
+18861,1109,03/06/2019,Osmosis (Osmose),Comedy|Drama|Romance,5.70,3
+18862,1037,15/10/2019,Marley & Me,Comedy|Drama,6.20,5
+18863,1066,21/03/2020,"Rally 'Round the Flag, Boys!",Comedy,7.70,3
+18864,1176,29/05/2019,Them!,Horror|Sci-Fi|Thriller,9.50,0
+18865,1004,10/10/2019,Le convoyeur,Crime|Drama|Thriller,7.20,2
+18866,1174,19/05/2020,Jack Frost,Children|Comedy|Drama,8.90,0
+18867,1152,11/11/2019,Paradise Lost 3: Purgatory,Documentary,8.30,2
+18868,1074,16/07/2019,King of the Hill,Drama,6.10,1
+18869,1194,01/10/2019,Are We There Yet?,Children|Comedy,6.90,3
+18870,1089,01/05/2020,The Man Who Lived Again,Horror|Sci-Fi,5.20,5
+18871,1183,17/02/2020,Crooked Arrows,Drama,6.30,1
+18872,1005,16/11/2019,"Nun's Story, The",Drama,5.10,0
+18873,1121,11/08/2019,Journey to Italy (Viaggio in Italia) (Voyage to Italy) (Voyage in Italy),Drama|Romance,6.50,5
+18874,1161,13/05/2020,Quai des Orfèvres (Jenny Lamour),Crime|Drama,5.20,1
+18875,1182,30/01/2020,"Hello, Dolly!",Comedy|Musical|Romance,8.50,3
+18876,1155,02/05/2020,Dry Summer (Susuz yaz) (Reflections),Drama,5.80,3
+18877,1196,15/03/2020,Spanglish,Comedy|Drama|Romance,9.20,3
+18878,1184,14/01/2020,Merantau,Action|Drama,8.90,0
+18879,1106,22/09/2019,"Words, The",Drama|Romance,7.60,3
+18880,1099,15/06/2019,"Wendell Baker Story, The",Comedy|Drama|Romance,9.30,2
+18881,1069,30/12/2019,"Associate, The (Associé, L')",Comedy,8.50,1
+18882,1182,21/12/2019,Mass Appeal,Drama,7.60,4
+18883,1196,10/09/2019,Flubber,Children|Comedy|Fantasy,6.50,3
+18884,1160,20/05/2020,Zero Motivation (Efes beyahasei enosh),Comedy|Drama,9.80,4
+18885,1158,16/10/2019,Absence of Malice,Drama|Romance,9.10,4
+18886,1039,02/06/2019,Ten Seconds to Hell,Action|Drama|Romance|War,7.20,4
+18887,1172,03/01/2020,Kiss Me Kate,Comedy|Musical|Romance,9.00,0
+18888,1134,22/11/2019,"Sniper, The",Crime|Drama|Film-Noir|Thriller,9.30,3
+18889,1138,22/09/2019,Mumia Abu-Jamal: A Case for Reasonable Doubt?,Documentary,7.80,1
+18890,1123,05/08/2019,Général Idi Amin Dada: A Self Portrait (Général Idi Amin Dada: Autoportrait),Documentary|War,5.60,1
+18891,1172,24/11/2019,Bionicle: Mask of Light (Bionicle: Mask of Light - The Movie),Action|Adventure|Animation|Children|Fantasy,5.50,4
+18892,1073,24/08/2019,Golden Door (Nuovomondo),Adventure|Drama|Romance,8.10,0
+18893,1153,18/03/2020,"Whale, The",Documentary,8.10,3
+18894,1039,27/05/2019,Nothing Left to Fear,Horror,7.90,2
+18895,1029,22/08/2019,ABC Africa,Documentary,6.30,1
+18896,1104,01/07/2019,Who's Harry Crumb?,Comedy|Mystery,5.50,3
+18897,1183,23/03/2020,Fun on a Weekend,(no genres listed),6.90,3
+18898,1123,20/09/2019,Mirrors,Horror|Mystery|Thriller,6.00,3
+18899,1185,22/01/2020,Today You Die,Action|Crime,6.10,0
+18900,1161,22/12/2019,33 Postcards,Drama,9.60,2
+18901,1016,01/10/2019,"Brother, Can You Spare a Dime?",Documentary,7.00,3
+18902,1070,03/02/2020,Find Love,Romance,5.00,2
+18903,1073,13/03/2020,"Boxtrolls, The",Adventure|Animation|Children|Comedy|Fantasy,8.20,4
+18904,1183,28/04/2020,"Invisible Woman, The",Drama|Romance,6.00,3
+18905,1015,13/05/2020,Mighty Aphrodite,Comedy|Drama|Romance,5.90,1
+18906,1171,06/09/2019,Christmas in Conway,Drama|Romance,9.30,5
+18907,1114,28/09/2019,My Demon Lover,Comedy|Horror,9.70,5
+18908,1008,11/05/2020,South Park: Imaginationland,Animation|Comedy|Fantasy,5.20,3
+18909,1162,15/03/2020,Circumstance,Drama,7.30,2
+18910,1033,08/07/2019,There's Only One Sun,Drama,8.10,5
+18911,1168,30/12/2019,"American President, The",Comedy|Drama|Romance,9.90,0
+18912,1064,05/05/2020,"Reckoning, The",Drama,7.80,5
+18913,1045,12/02/2020,Night Ambush (Ill Met by Moonlight),Action|Adventure|Drama|War,7.50,1
+18914,1036,24/07/2019,Duel at Diablo,War,6.80,2
+18915,1169,18/08/2019,Reefer Madness: The Movie Musical,Comedy|Drama|Musical,6.90,5
+18916,1075,31/03/2020,Sukiyaki Western Django,Action|Western,5.90,3
+18917,1179,30/09/2019,Happy New Year,Action|Comedy|Crime|Drama|Musical|Romance,9.00,4
+18918,1199,24/06/2019,Elektra,Action|Adventure|Crime|Drama,6.10,3
+18919,1111,21/09/2019,Love Streams,Comedy|Drama,9.30,0
+18920,1187,20/02/2020,"Incredible Melting Man, The",Horror|Sci-Fi,5.50,4
+18921,1113,30/11/2019,Around the Block,Drama,7.10,4
+18922,1042,16/10/2019,Beautiful Ohio,Comedy|Drama,8.20,2
+18923,1040,22/02/2020,A Merry Friggin' Christmas,Comedy,7.40,2
+18924,1195,17/02/2020,Guyana Tragedy: The Story of Jim Jones,Drama,6.20,1
+18925,1016,09/04/2020,Blade on the Feather (Deep Cover),Mystery,6.60,3
+18926,1080,18/10/2019,Once Upon a Crime...,Comedy|Mystery,6.70,3
+18927,1126,02/06/2019,"So Normal (Normais, Os)",Comedy,9.30,5
+18928,1106,21/05/2020,Excision,Crime|Drama|Horror|Thriller,8.80,5
+18929,1180,25/03/2020,Metropolis,Drama|Sci-Fi,7.80,3
+18930,1157,15/05/2020,"Quarry, The",Drama,5.70,0
+18931,1106,17/07/2019,All the King's Men,Drama,5.80,4
+18932,1001,17/05/2020,"Mermaid, The (Rusalka)",Comedy|Drama|Fantasy,8.50,1
+18933,1005,01/09/2019,Winchester '73,Western,8.80,3
+18934,1198,30/12/2019,"Dirty Carnival, A (Biyeolhan geori)",Action|Crime|Thriller,8.60,3
+18935,1180,15/06/2019,Sugar & Spice,Comedy,7.40,1
+18936,1080,26/06/2019,"Corsican File, The (L'enquête corse)",Action|Comedy|Crime,9.50,4
+18937,1041,04/08/2019,Saratoga,Comedy|Drama|Romance,7.50,1
+18938,1101,22/04/2020,Lucas,Drama|Romance,7.50,4
+18939,1124,02/11/2019,Grand Masti,Comedy|Drama|Romance,7.00,0
+18940,1114,18/07/2019,"Theory of Everything, The",Drama|Romance,9.50,1
+18941,1200,07/02/2020,3 Ninjas Kick Back,Action|Children|Comedy,7.30,5
+18942,1200,27/12/2019,One 2 Ka 4,Action|Comedy|Drama,7.00,2
+18943,1110,15/12/2019,Bosko's Parlor Pranks,Animation,9.60,4
+18944,1124,29/10/2019,Seven Up!,Documentary,8.70,5
+18945,1104,03/10/2019,Mall,Drama,9.60,2
+18946,1068,04/06/2019,Empire Falls,Drama|Romance,6.10,4
+18947,1049,14/07/2019,Parkland,Drama,8.00,0
+18948,1177,12/05/2020,"Son, The (Le fils)",Drama,5.30,2
+18949,1052,08/01/2020,"Bridge, The",Documentary,8.60,2
+18950,1019,21/07/2019,"Me, Myself and Mum (Les garçons et Guillaume, à table!)",Comedy,9.10,1
+18951,1104,08/05/2020,"Good Fairy, The",Comedy|Romance,7.00,4
+18952,1176,13/10/2019,Mildred Pierce,Drama,7.40,3
+18953,1026,11/12/2019,Man of the World,Drama|Romance,5.40,1
+18954,1047,07/12/2019,"Pawnbroker, The",Drama,7.70,1
+18955,1074,29/01/2020,Matilda,Children|Comedy|Fantasy,9.50,5
+18956,1147,08/06/2019,Dragon Ball Z: Wrath of the Dragon (Doragon bôru Z 13: Ryûken bakuhatsu!! Gokû ga yaraneba dare ga yaru),Action|Adventure|Animation,6.40,0
+18957,1167,25/10/2019,"Song Remains the Same, The",Documentary|Musical,6.10,5
+18958,1181,02/09/2019,Attack Force,Action|Horror|Sci-Fi,7.90,5
+18959,1032,31/08/2019,"Children of Heaven, The (Bacheha-Ye Aseman)",Comedy|Drama,8.30,5
+18960,1018,15/02/2020,Opening Night,Drama,5.80,0
+18961,1103,15/03/2020,V/H/S/2,Horror|Thriller,6.00,0
+18962,1116,24/07/2019,Palmetto,Crime|Drama|Mystery|Romance|Thriller,7.60,1
+18963,1136,13/06/2019,Man of Tai Chi,Action|IMAX,7.30,3
+18964,1187,31/07/2019,The Trans-Atlantic Mystery,(no genres listed),8.80,3
+18965,1046,14/02/2020,War and Peace,Drama|Romance|War,5.00,3
+18966,1132,21/09/2019,Who's the Man?,Comedy,9.60,1
+18967,1001,03/07/2019,"Ebola Syndrome, The (Yi boh laai beng duk)",Comedy|Horror,8.00,4
+18968,1113,07/07/2019,Chris Rock: Bigger & Blacker,Comedy,8.80,4
+18969,1068,19/07/2019,"Cat in Paris, A (Une vie de chat)",Animation|Crime|Mystery,9.90,4
+18970,1062,29/02/2020,Red Road,Drama,6.90,2
+18971,1125,24/02/2020,"Honey, I Shrunk the Kids",Adventure|Children|Comedy|Fantasy|Sci-Fi,9.70,5
+18972,1055,26/08/2019,Novo,Drama,6.60,4
+18973,1140,20/11/2019,Mimic: Sentinel,Horror|Sci-Fi|Thriller,6.40,3
+18974,1045,02/07/2019,Sergeant York,Drama|War,6.40,2
+18975,1091,12/02/2020,Boarding Gate,Thriller,7.30,5
+18976,1025,08/08/2019,"Eye of the Storm, The",Drama,8.50,4
+18977,1169,07/01/2020,Oliver Twist,Drama,7.00,4
+18978,1028,29/10/2019,Bloodsport 2 (a.k.a. Bloodsport II: The Next Kumite),Action,7.10,2
+18979,1097,05/09/2019,Barabbas,Drama,5.80,4
+18980,1068,29/03/2020,Susan Lenox (Her Fall and Rise),Adventure|Drama|Romance,6.80,3
+18981,1052,09/10/2019,Ski School,Comedy,10.00,4
+18982,1083,09/02/2020,"I, Robot",Action|Adventure|Sci-Fi|Thriller,6.90,3
+18983,1168,05/04/2020,"Separation, A (Jodaeiye Nader az Simin)",Drama,7.20,1
+18984,1144,15/12/2019,Prelude to a Kiss,Comedy|Drama|Romance,5.10,3
+18985,1050,06/10/2019,"Mindscape of Alan Moore, The",Documentary,9.50,5
+18986,1052,10/12/2019,Forrest Gump,Comedy|Drama|Romance|War,5.20,3
+18987,1084,03/05/2020,Reality,Comedy,6.30,4
+18988,1041,27/10/2019,Odette Toulemonde,Comedy|Drama,6.90,5
+18989,1174,12/10/2019,New Tale of Zatoichi (Shin Zatôichi monogatari) (Zatôichi 3),Action|Drama,9.40,4
+18990,1060,17/10/2019,Is It Easy to be Young?,Documentary|Drama,5.60,2
+18991,1028,22/11/2019,"Little Prince, The",Children|Musical|Sci-Fi,9.50,4
+18992,1074,05/12/2019,When Jews Were Funny,Documentary,5.70,1
+18993,1170,10/02/2020,Cloudy with a Chance of Meatballs 2,Animation|Children|Comedy|Fantasy,8.20,3
+18994,1044,07/05/2020,Sweet November,Drama|Romance,7.10,1
+18995,1127,06/09/2019,Dark Days,Documentary,9.50,3
+18996,1098,02/02/2020,Embrace of the Vampire,Horror|Thriller,8.90,0
+18997,1008,10/05/2020,Back to the Secret Garden,Adventure|Children|Fantasy,5.50,5
+18998,1115,06/02/2020,Because You're Mine,Comedy|Musical,9.90,3
+18999,1159,15/12/2019,Parting Glances,Comedy|Drama|Romance,7.30,2
+19000,1129,13/02/2020,Flash of Genius,Drama,8.90,0
+19001,1065,02/12/2019,Two Evil Eyes,Horror,8.90,3
+19002,1079,10/10/2019,Burn Paris Burn,Animation|Fantasy|Mystery,5.10,0
+19003,1057,29/09/2019,Buddy,Adventure|Children|Drama,6.30,5
+19004,1059,24/12/2019,Dirty Girl,Comedy|Drama,5.50,5
+19005,1148,11/08/2019,"Day of the Locust, The",Drama,9.00,2
+19006,1167,23/05/2020,"Amityville Horror, The",Horror|Thriller,7.40,4
+19007,1165,28/08/2019,Nancy Drew,Adventure|Crime|Thriller,7.70,4
+19008,1092,02/11/2019,Condorman,Action|Adventure|Children|Comedy,5.70,1
+19009,1046,23/06/2019,OMG Oh My God!,Comedy|Drama,9.20,1
+19010,1045,10/06/2019,Volunteers,Comedy,8.10,2
+19011,1158,31/03/2020,"Next Karate Kid, The",Action|Children|Romance,6.20,1
+19012,1147,21/10/2019,Sinbad of the Seven Seas,Adventure|Fantasy|Romance,5.80,5
+19013,1161,14/06/2019,Caterina in the Big City (Caterina va in città),Drama|Romance,6.90,0
+19014,1073,19/05/2020,True Lies,Action|Adventure|Comedy|Romance|Thriller,8.50,0
+19015,1155,13/11/2019,Big Fan,Comedy|Crime|Drama,5.50,2
+19016,1192,12/08/2019,I Accuse!,Drama,9.40,5
+19017,1182,25/05/2019,Soulless,Comedy|Drama,7.00,4
+19018,1001,15/06/2019,Romance & Cigarettes,Comedy|Drama|Musical|Romance,8.00,4
+19019,1101,05/06/2019,Bloodtide,Horror,6.60,3
+19020,1055,26/03/2020,Camel Spiders,Horror|Sci-Fi,5.50,3
+19021,1102,14/07/2019,Games,Thriller,9.40,4
+19022,1015,17/02/2020,Anna Lucasta,Drama,6.70,3
+19023,1094,11/08/2019,Dark Water,Drama|Horror|Thriller,9.80,3
+19024,1036,11/12/2019,Down to Earth,Comedy|Fantasy|Romance,6.30,4
+19025,1025,18/05/2020,"Girl, The",Drama,9.50,2
+19026,1070,05/07/2019,"Professional, The (Le professionnel)",Action|Drama|Thriller,8.20,5
+19027,1094,29/07/2019,"Gentleman's Game, A",Drama,5.50,3
+19028,1055,01/01/2020,"Ferryman, The",Fantasy|Horror|Thriller,8.20,4
+19029,1042,26/04/2020,Bad Influence,Drama|Thriller,6.60,1
+19030,1183,27/12/2019,Gen 13 (a.k.a. Gen13: The Animated Movie),Action|Animation|Sci-Fi,7.10,3
+19031,1200,01/11/2019,Just Imagine,Musical|Sci-Fi,6.10,0
+19032,1040,28/12/2019,King of the Children (Hai zi wang),Drama,9.00,0
+19033,1154,03/03/2020,What Price Hollywood?,Drama,7.80,2
+19034,1163,09/06/2019,3 Blind Mice,Crime|Mystery|Romance|Thriller,9.10,5
+19035,1076,18/06/2019,Following Sean,Documentary,6.10,5
+19036,1003,09/10/2019,"I Love You, Alice B. Toklas!",Comedy,5.10,4
+19037,1064,29/12/2019,I Love Sarah Jane,Horror|Romance,7.50,2
+19038,1109,05/09/2019,Soo (Art of Revenge),Action|Crime|Drama|Thriller,5.50,1
+19039,1137,17/09/2019,Wild,Drama,8.90,2
+19040,1073,07/08/2019,Guilty (Présumé coupable),Drama,5.30,3
+19041,1190,02/06/2019,"Secret Life of Walter Mitty, The",Comedy|Romance|Thriller,9.70,0
+19042,1184,22/02/2020,"Accidental Golfer, The (Den ofrivillige golfaren)",Comedy,8.00,2
+19043,1140,27/02/2020,Studentfesten,Comedy,6.60,2
+19044,1174,09/11/2019,Empire of the Ants,Horror|Sci-Fi,9.80,4
+19045,1070,05/07/2019,"Place in the Sun, A",Drama|Romance,5.10,5
+19046,1031,05/03/2020,"Collector, The (La collectionneuse)",Drama,8.10,2
+19047,1049,15/08/2019,My Name Is Bruce,Comedy|Horror,5.10,3
+19048,1026,28/02/2020,"Fatal Hour, The",Crime|Mystery|Thriller,6.90,4
+19049,1156,01/06/2019,You Only Live Twice,Action|Adventure|Sci-Fi|Thriller,7.80,3
+19050,1138,16/03/2020,In Praise of Older Women,Drama,7.60,1
+19051,1047,23/01/2020,Green Lantern: First Flight,Action|Adventure|Animation|Fantasy|Sci-Fi,7.20,0
+19052,1166,12/01/2020,The Russian Novel,Drama,8.40,4
+19053,1101,06/08/2019,Girls in Prison,Crime|Drama|Thriller,8.30,1
+19054,1044,18/09/2019,Downloading Nancy,Drama|Thriller,9.70,1
+19055,1178,24/11/2019,It's a Wonderful Afterlife,Comedy|Drama|Horror|Romance,7.80,4
+19056,1059,03/04/2020,Noriko's Dinner Table (Noriko no shokutaku),Drama|Horror,7.00,5
+19057,1067,29/06/2019,Flight of the Intruder,Action|War,6.50,3
+19058,1023,17/06/2019,Grand Masti,Comedy|Drama|Romance,9.40,4
+19059,1098,01/02/2020,"Astronaut's Wife, The",Horror|Sci-Fi|Thriller,9.70,4
+19060,1017,25/06/2019,Pull My Daisy,Comedy|Drama,6.20,2
+19061,1024,12/12/2019,"After Fall, Winter",Drama,9.80,0
+19062,1115,24/06/2019,Adrift (À Deriva),Drama,8.30,0
+19063,1053,06/05/2020,Unknown Pleasures (Ren xiao yao),Comedy|Drama,7.20,5
+19064,1014,27/10/2019,"Saban, Son of Saban",Comedy|Crime|Mystery,5.40,3
+19065,1138,21/09/2019,Stromberg - Der Film,Comedy,9.10,5
+19066,1091,19/09/2019,Act Da Fool,(no genres listed),6.50,0
+19067,1179,03/09/2019,Buud Yam,Drama,7.30,2
+19068,1020,19/03/2020,"Lady from Shanghai, The",Drama|Film-Noir|Mystery,6.10,5
+19069,1102,16/07/2019,"Doctor, The",Drama,7.80,2
+19070,1108,31/08/2019,Left Behind: World at War,Drama,6.60,0
+19071,1188,15/11/2019,"Possession, The",Horror|Thriller,5.00,3
+19072,1078,31/05/2019,Memories of Murder (Salinui chueok),Crime|Drama|Mystery|Thriller,5.90,5
+19073,1038,14/08/2019,Gamer,Action|Sci-Fi|Thriller,5.90,0
+19074,1156,23/04/2020,Poison Ivy II,Drama|Thriller,5.50,3
+19075,1186,30/05/2019,American Scary,Comedy|Documentary|Horror,7.50,5
+19076,1095,21/03/2020,The Mad Magician,Horror|Mystery|Thriller,6.40,2
+19077,1131,15/08/2019,"Road to Wellville, The",Comedy,9.00,5
+19078,1032,18/11/2019,Bukowski: Born into This,Documentary,5.80,1
+19079,1119,20/04/2020,Loving Leah,Drama|Romance,5.40,5
+19080,1044,09/08/2019,Scoop,Comedy|Fantasy|Mystery,9.00,5
+19081,1033,05/08/2019,Lotto Land,Drama,5.30,0
+19082,1081,02/05/2020,Tough Guys Don't Dance,Drama,7.00,1
+19083,1147,20/07/2019,Stakeout on Dope Street,Crime|Drama,7.00,0
+19084,1196,10/03/2020,Amos & Andrew,Comedy,8.60,0
+19085,1019,18/07/2019,Home Alone 4,Children|Comedy|Crime,9.20,0
+19086,1194,05/07/2019,Grand Hotel,Drama|Romance,5.50,1
+19087,1115,14/04/2020,"Young Master, The (Shi di chu ma)",Action|Comedy,5.20,3
+19088,1084,22/09/2019,Listen to Your Heart,Drama|Musical|Romance,9.60,5
+19089,1044,17/10/2019,"Women, The",Comedy,6.90,0
+19090,1123,27/05/2019,"Kite Runner, The",Drama,6.90,2
+19091,1181,26/08/2019,"Alphabet Killer, The",Crime,6.90,2
+19092,1042,29/06/2019,Charm's Incidents (Charms Zwischenfälle),Drama,8.80,0
+19093,1148,06/01/2020,"Errand Boy, The",Comedy,7.60,2
+19094,1107,15/11/2019,I Give It a Year,Comedy|Romance,7.50,5
+19095,1099,28/12/2019,City Hall,Drama|Thriller,9.20,2
+19096,1054,07/07/2019,Man on Wire,Documentary,8.90,5
+19097,1083,24/01/2020,1001 Nights,Adventure|Comedy|Fantasy,7.60,1
+19098,1173,17/05/2020,Personal Velocity,Drama,6.10,4
+19099,1151,27/03/2020,S.F.W.,Drama,6.10,4
+19100,1183,31/08/2019,Blackwoods,Drama|Thriller,8.90,1
+19101,1015,10/01/2020,Truth in 24,Documentary,6.90,0
+19102,1001,02/03/2020,Small Apartments,Comedy|Crime|Drama,6.90,0
+19103,1013,22/01/2020,American Pop,Animation|Musical,8.90,3
+19104,1069,29/10/2019,Where in the World Is Osama Bin Laden?,Documentary,8.10,1
+19105,1016,01/05/2020,Private Resort,Comedy,8.70,4
+19106,1055,30/06/2019,Heidi,Children|Drama,7.90,4
+19107,1095,10/08/2019,Scenes from the Class Struggle in Beverly Hills,Comedy,8.80,3
+19108,1126,10/05/2020,Outside Satan (Hors Satan),Drama,9.00,1
+19109,1074,21/04/2020,Copenhagen,Adventure|Drama|Romance,5.90,2
+19110,1013,22/02/2020,Jean de Florette,Drama|Mystery,7.10,0
+19111,1134,22/05/2020,"Night of the Following Day, The",Crime|Drama,6.50,1
+19112,1046,23/04/2020,"Way You Wanted Me, The (Sellaisena kuin sinä minut halusit)",Drama|Romance,5.50,2
+19113,1029,11/10/2019,Predators,Action|Sci-Fi|Thriller,6.40,4
+19114,1060,06/09/2019,Delta Force 2 (Delta Force 2: The Colombian Connection),Action|Adventure|Thriller|War,9.60,1
+19115,1078,08/12/2019,Goal! The Dream Begins (Goal!),Drama,6.60,5
+19116,1197,05/11/2019,"Painted Veil, The",Drama|Romance,5.40,5
+19117,1086,11/04/2020,Boom Town,Adventure|Drama|Romance,6.10,5
+19118,1079,19/02/2020,Zozo,Drama,8.30,2
+19119,1127,27/03/2020,Life and Debt,Documentary,8.40,0
+19120,1127,30/08/2019,Beauty and the Bastard (Tyttö sinä olet tähti),Drama|Musical|Romance,7.30,1
+19121,1194,07/04/2020,"Stranger Within, The",Thriller,5.20,2
+19122,1185,05/04/2020,Lemora: A Child's Tale of the Supernatural,Horror,5.70,3
+19123,1051,09/11/2019,"Le printemps, l'automne et l'amour",Comedy|Drama,6.20,5
+19124,1040,23/03/2020,Sorority Babes in the Slimeball Bowl-O-Rama,Comedy|Horror,9.30,4
+19125,1152,19/09/2019,Idiocracy,Adventure|Comedy|Sci-Fi|Thriller,6.60,5
+19126,1103,21/10/2019,Phantom,Thriller,9.20,0
+19127,1122,17/12/2019,Odette Toulemonde,Comedy|Drama,9.90,5
+19128,1046,22/12/2019,Inserts,Comedy|Drama,6.70,5
+19129,1108,02/05/2020,Swamp Water,Drama,5.30,2
+19130,1062,08/11/2019,"Lincoln Lawyer, The",Crime|Drama|Thriller,5.10,5
+19131,1062,17/03/2020,December 7th,Documentary|War,6.70,0
+19132,1117,10/08/2019,Pokrajina St.2,Thriller,9.00,0
+19133,1199,21/04/2020,Crackerjack,Action,9.40,4
+19134,1011,05/04/2020,Blondie Knows Best,Comedy,9.00,0
+19135,1090,13/02/2020,Khumba,Adventure|Animation|Children,8.00,5
+19136,1082,21/07/2019,Little Caesar,Crime|Drama,8.20,4
+19137,1007,19/01/2020,Carmen,Drama,9.40,1
+19138,1093,03/11/2019,"President's Lady, The",Drama,9.90,5
+19139,1186,20/06/2019,Harry Potter and the Half-Blood Prince,Adventure|Fantasy|Mystery|Romance|IMAX,6.90,4
+19140,1124,15/10/2019,Female Demon Ohyaku (Yôen dokufuden hannya no ohyaku),Action,9.40,5
+19141,1196,19/12/2019,"Wet Parade, The",Drama|Romance,6.00,0
+19142,1135,16/05/2020,Gone Baby Gone,Crime|Drama|Mystery,9.80,2
+19143,1137,10/03/2020,Vollidiot,Comedy|Drama,7.10,4
+19144,1029,19/11/2019,Being Flynn,Comedy|Drama,5.20,2
+19145,1035,01/01/2020,"Watcher, The",Crime|Thriller,5.70,3
+19146,1130,20/09/2019,Buddies (Colegas),Adventure|Comedy,9.10,5
+19147,1137,10/06/2019,Frida,Drama|Romance,6.10,5
+19148,1082,26/04/2020,Jersey Boys,Drama|Musical,7.40,1
+19149,1081,16/09/2019,"SpongeBob Movie: Sponge Out of Water, The",Adventure|Animation|Children|Comedy,6.10,3
+19150,1155,03/02/2020,Midnight Movies: From the Margin to the Mainstream,Documentary,6.10,4
+19151,1015,13/04/2020,How I Got Into College,Comedy|Romance,8.30,4
+19152,1075,09/03/2020,C.R.A.Z.Y.,Drama,5.70,0
+19153,1036,19/01/2020,Time Code,Comedy|Drama,7.80,0
+19154,1128,02/10/2019,"Price of Forgiveness, The (Ndeysaan)",Drama,5.20,3
+19155,1098,28/03/2020,Body/Cialo,Comedy|Drama|Mystery,8.30,0
+19156,1154,01/01/2020,Last Chance Harvey,Drama|Romance,8.50,3
+19157,1079,10/11/2019,Annie Get Your Gun,Comedy|Musical|Romance|Western,5.50,2
+19158,1104,25/04/2020,North Beach,Comedy|Drama,9.70,5
+19159,1017,26/03/2020,If I Were You (Se Eu Fosse Você),Comedy,7.00,5
+19160,1153,21/12/2019,Kinky Boots,Comedy|Drama,8.70,0
+19161,1151,10/12/2019,Superpower,Documentary,8.20,2
+19162,1191,31/07/2019,An American Hippie in Israel,Action|Comedy|Sci-Fi,6.90,1
+19163,1046,09/02/2020,Lara Croft: Tomb Raider,Action|Adventure,5.50,2
+19164,1063,28/01/2020,"Christmas Story, A",Children|Comedy,8.50,1
+19165,1052,09/06/2019,"Color of Pomegranates, The (Sayat Nova)",Drama,8.00,5
+19166,1058,09/10/2019,"Classe américaine, La (a.k.a. Le grand détournement)",Comedy,5.30,3
+19167,1004,30/03/2020,Drained (O cheiro do Ralo),Comedy,5.60,3
+19168,1072,02/05/2020,Long Weekend,Horror|Mystery|Thriller,8.50,0
+19169,1073,17/02/2020,Another Year,Drama,7.10,1
+19170,1038,06/01/2020,Shadows (Senki),Drama|Horror|Mystery|Thriller,8.30,3
+19171,1172,04/09/2019,National Gallery,Documentary,6.20,2
+19172,1171,08/02/2020,Summer of Sam,Drama,8.70,0
+19173,1080,20/05/2020,Manufactured Landscapes,Documentary,9.50,4
+19174,1189,17/07/2019,Bouncing Babies,Comedy,5.90,1
+19175,1127,08/12/2019,NATO's Secret Armies (Gladio: L'esercito segreto della Nato),Documentary,7.60,1
+19176,1124,14/06/2019,Vulgar,Drama,8.30,2
+19177,1015,13/09/2019,So Fine,Comedy,5.30,5
+19178,1178,18/03/2020,Now or Never,Comedy,5.60,4
+19179,1142,24/09/2019,"Yes Men, The",Documentary,6.80,0
+19180,1140,01/09/2019,Non-Stop,Drama|Mystery|Thriller,8.70,1
+19181,1062,01/02/2020,Brute Force,Drama|Film-Noir|Thriller,9.70,2
+19182,1082,08/11/2019,"Chipmunk Adventure, The",Adventure|Animation|Children|Comedy|Fantasy|Musical,7.70,5
+19183,1152,14/08/2019,The Inhabited Island 2: Rebellion,Action|Adventure|Sci-Fi,5.50,3
+19184,1004,17/12/2019,Let it Rain (Parlez-moi de la pluie),Comedy|Drama,9.60,3
+19185,1132,12/10/2019,"Bûche, La",Comedy|Drama,8.70,5
+19186,1178,17/04/2020,Stateside,Drama,6.80,4
+19187,1100,16/11/2019,"Rita, Sue and Bob Too!",Comedy|Drama,7.50,4
+19188,1143,01/11/2019,Wake of the Red Witch,Action|Adventure|Drama,8.00,4
+19189,1134,11/07/2019,Paris Belongs to Us (Paris nous appartient),Mystery,5.40,2
+19190,1016,10/03/2020,Hatari!,Adventure|Comedy,7.70,5
+19191,1156,14/08/2019,Gate of Hell (Jigokumon),Drama|Romance,5.40,3
+19192,1155,11/06/2019,Intimate Lighting (Intimni osvetleni),Comedy|Drama,5.80,1
+19193,1153,21/11/2019,"Beach Boys: An American Family, The",Documentary|Drama,6.40,1
+19194,1090,03/02/2020,Bambi 2,Animation|Children|Drama,8.80,1
+19195,1115,11/01/2020,"Secret of Roan Inish, The",Children|Drama|Fantasy|Mystery,5.70,1
+19196,1116,04/11/2019,"Inheritance, The (Arven)",Drama,8.70,2
+19197,1189,24/04/2020,"Tempest, The",Comedy|Drama|Fantasy|Romance,9.40,5
+19198,1068,28/07/2019,Sacro GRA,Documentary,8.80,5
+19199,1032,01/03/2020,Panic,Drama,5.80,5
+19200,1020,27/06/2019,It's Alive III: Island of the Alive,Comedy|Drama|Horror|Sci-Fi,5.20,4
+19201,1198,02/09/2019,"Special Day, A (Giornata particolare, Una)",Drama|War,5.60,0
+19202,1080,18/04/2020,Ironclad,Action|Adventure,6.70,0
+19203,1090,12/02/2020,I Live in Fear (Ikimono no kiroku),Drama,5.50,1
+19204,1147,03/01/2020,Emma,Comedy|Drama|Romance,5.20,4
+19205,1074,06/04/2020,"Wild Hunt, The",Drama|Thriller,9.70,4
+19206,1089,15/08/2019,According to Greta,Drama|Romance,7.30,1
+19207,1155,26/09/2019,Tombstone,Action|Drama|Western,8.60,3
+19208,1062,16/08/2019,"Dark Tower, The",Drama|Thriller,8.40,3
+19209,1134,29/06/2019,Lord of Illusions,Horror,9.80,0
+19210,1189,01/08/2019,Sleeping with the Enemy,Drama|Thriller,7.00,2
+19211,1105,24/07/2019,Forgetting the Girl,Drama,6.10,3
+19212,1026,30/12/2019,Buster,Comedy|Crime,6.60,2
+19213,1029,04/01/2020,"Waiting Room, The",Drama|Romance,7.30,3
+19214,1002,24/01/2020,"Art of Flight, The",Adventure|Documentary,5.50,1
+19215,1048,23/06/2019,Snow and Ashes,Drama|Thriller|War,5.00,5
+19216,1047,03/05/2020,House Hunting,Mystery|Thriller,8.70,1
+19217,1105,16/09/2019,A Via Láctea,Drama,8.80,0
+19218,1067,03/03/2020,Entre nos (Between Us),Drama,9.60,4
+19219,1017,20/06/2019,Across to Singapore,Drama|Romance,9.70,4
+19220,1015,08/01/2020,Find Love,Romance,5.00,1
+19221,1170,29/04/2020,Hysterical Blindness,Drama,8.90,4
+19222,1005,30/08/2019,The Death and Life of Bobby Z,Action|Crime|Drama|Thriller,8.70,3
+19223,1063,01/04/2020,Spies Like Us,Comedy,8.20,5
+19224,1200,06/04/2020,Garage Sale Mystery,Drama,7.10,0
+19225,1064,05/12/2019,"Captive, The (La captive)",Drama|Romance,8.00,2
+19226,1136,09/05/2020,Lonesome,Comedy|Drama|Romance,6.70,4
+19227,1052,25/02/2020,Pumzi,Sci-Fi,9.40,2
+19228,1133,04/03/2020,Bait,Action|Horror|Thriller,6.70,2
+19229,1183,24/03/2020,"Adventures of Baron Munchausen, The",Adventure|Comedy|Fantasy,8.50,1
+19230,1036,22/08/2019,Unlawful Entry,Crime|Thriller,6.40,5
+19231,1027,05/10/2019,Creep Van,Horror,6.40,1
+19232,1064,02/03/2020,In Their Sleep (Dans ton sommeil),Horror|Thriller,5.40,2
+19233,1075,11/11/2019,Little Giants,Children|Comedy,5.50,4
+19234,1145,07/08/2019,"Mother, Jugs & Speed",Comedy,5.50,4
+19235,1200,05/09/2019,"Streetcar Named Desire, A",Drama,9.00,0
+19236,1183,10/12/2019,After Earth,Action|Adventure|Sci-Fi|IMAX,9.80,4
+19237,1156,31/05/2019,Putney Swope,Comedy,9.00,0

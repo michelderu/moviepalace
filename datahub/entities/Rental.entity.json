@@ -1,0 +1,59 @@
+{
+  "info" : {
+    "title" : "Rental",
+    "version" : "0.0.1",
+    "baseUri" : "http://example.org/",
+    "description" : "Unified insight in all rentals"
+  },
+  "definitions" : {
+    "Rental" : {
+      "required" : [ ],
+      "pii" : [ ],
+      "elementRangeIndex" : [ "movie", "rating" ],
+      "rangeIndex" : [ ],
+      "wordLexicon" : [ ],
+      "properties" : {
+        "date" : {
+          "datatype" : "date",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "genre" : {
+          "datatype" : "array",
+          "description" : "Array of genres",
+          "items" : {
+            "datatype" : "string",
+            "collation" : "http://marklogic.com/collation/codepoint"
+          }
+        },
+        "id" : {
+          "datatype" : "string",
+          "description" : "Generated datahub ID",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "movie" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "price" : {
+          "datatype" : "float",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "rating" : {
+          "datatype" : "int",
+          "description" : "Stars given (1-5)",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "source_id" : {
+          "datatype" : "string",
+          "description" : "ID from source system",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "upstream_source" : {
+          "datatype" : "string",
+          "description" : "Source system",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        }
+      }
+    }
+  }
+}
